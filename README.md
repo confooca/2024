@@ -14,6 +14,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| Writing Effective Unit Tests | Jessie Newman | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/Writing_Effective_Unit_Tests-Jessie_Newman.pdf) |
 |--------------------|---------------|---------|
 
 
