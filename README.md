@@ -19,15 +19,17 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 # February 22
 
-| Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|
-|--------------------|---------------|---------|
+| Presentation Title | Speaker Name  | Content                                                                                               |
+|--------------------|---------------|-------------------------------------------------------------------------------------------------------|
+| Expecting The Best: How to Manage Unreliable Developers | Bryce Embry | [Slides in PDF](2024-02-22/expecting_the_best_how_to_manage_unreliable_developers-bryce_embry.pdf) |
+|--------------------|---------------| ---------                                                                                             |
 
 # February 23
 
-| Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|
-|--------------------|---------------|---------|
+| Presentation Title                    | Speaker Name    | Content                                                                           |
+|---------------------------------------|-----------------|-----------------------------------------------------------------------------------|
+| How to Work With Brilliant Developers | Bryce Embry     | [Slides in PDF](2024-02-23/how_to_work_with_brilliant_developers-bryce_embry.pdf) |
+| --------------------                  | --------------- | ---------                                                                         |
 
 
 
