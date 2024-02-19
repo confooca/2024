@@ -14,6 +14,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| [The State of WebAssembly](https://confoo.ca/en/2024/session/the-state-of-webassembly) | Gerard Gallant | [slides](https://github.com/confooca/2024/blob/main/2024-02-21/The_State_of_WebAssembly-Gerard_Gallant.pdf), [code](https://github.com/confooca/2024/blob/main/2024-02-21/The_State_of_WebAssembly-Gerard_Gallant.zip) |
 |--------------------|---------------|---------|
 
 
@@ -27,6 +28,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| [Creating a Slack bot to turn AWS services on or off](https://confoo.ca/en/2024/session/creating-a-slack-bot-to-turn-aws-services-on-or-off) | Gerard Gallant | [slides](https://github.com/confooca/2024/blob/main/2024-02-23/Creating_a_Slack_bot_to_turn_AWS_services_on_or_off-Gerard_Gallant.pdf), [code](https://github.com/confooca/2024/blob/main/2024-02-23/Creating_a_Slack_bot_to_turn_AWS_services_on_or_off-Gerard_Gallant.zip) |
 |--------------------|---------------|---------|
 
 
