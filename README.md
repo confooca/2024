@@ -14,8 +14,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| #nullable enable - unlock the power of C# nullability | Maarten Balliauw | [slides](2024-02-21/nullability-csharp_maarten-balliauw.pdf) |
 | Intro to Pandas| Jessie Newman | [Prep Instructions](https://github.com/confooca/2024/blob/main/2024-02-21/Intro_To_Pandas-Jessie_Newman.pdf) |
-
 |--------------------|---------------|---------|
 
 
@@ -23,6 +23,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| Debugging .NET - Tips and tricks | Maarten Balliauw | live coding from scratch |
 |--------------------|---------------|---------|
 
 # February 23
