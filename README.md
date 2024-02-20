@@ -24,6 +24,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 | [Amazing Algorithms for Solving Problems in Software](https://confoo.ca/en/2024/session/amazing-algorithms-for-solving-problems-in-software) | [Barry S. Stahl](https://www.cognitiveinheritance.com) | [Slides-PDF](./2024-02-22/Amazing_Algorithms-Barry_S_Stahl.pdf), [Slides-Web](https://amazingalgorithms.azurewebsites.net/), [Demos](https://github.com/bsstahl/AIDemos/wiki/VotingAmoebas) |
+| Expecting The Best: How to Manage Unreliable Developers | Bryce Embry | [Slides in PDF](2024-02-22/expecting_the_best_how_to_manage_unreliable_developers-bryce_embry.pdf) |
 | Debugging .NET - Tips and tricks | Maarten Balliauw | live coding from scratch |
 |--------------------|---------------|---------|
 
@@ -33,6 +34,6 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 |--------------------|---------------|---------|
 | [Creating a Slack bot to turn AWS services on or off](https://confoo.ca/en/2024/session/creating-a-slack-bot-to-turn-aws-services-on-or-off) | Gerard Gallant | [slides](https://github.com/confooca/2024/blob/main/2024-02-23/Creating_a_Slack_bot_to_turn_AWS_services_on_or_off-Gerard_Gallant.pdf), [code](https://github.com/confooca/2024/blob/main/2024-02-23/Creating_a_Slack_bot_to_turn_AWS_services_on_or_off-Gerard_Gallant.zip) |
 | [GPT Embeddings: Not Magic - Just Math](https://confoo.ca/en/2024/session/gpt-embeddings-not-magic-just-math) | [Barry S. Stahl](https://www.cognitiveinheritance.com) | [Slides-PDF](./2024-02-23/GPT_Embeddings-Barry_S_Stahl.pdf), [Slides-Web](https://introtoembeddings.azurewebsites.net/), [Demos](https://github.com/bsstahl/AIDemos/wiki/Embeddings) |
+| How to Work With Brilliant Developers | Bryce Embry     | [Slides in PDF](2024-02-23/how_to_work_with_brilliant_developers-bryce_embry.pdf) |
 | Writing Effective Unit Tests | Jessie Newman | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/Writing_Effective_Unit_Tests-Jessie_Newman.pdf) |
 |--------------------|---------------|---------|
-
