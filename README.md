@@ -16,7 +16,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 |--------------------|---------------|---------|
 | [#nullable enable - unlock the power of C# nullability](https://confoo.ca/en/2024/session/nullable-enable-unlock-the-power-of-c-nullability) | Maarten Balliauw | [slides](2024-02-21/nullability-csharp_maarten-balliauw.pdf) |
 | [The State of WebAssembly](https://confoo.ca/en/2024/session/the-state-of-webassembly) | Gerard Gallant | [slides](https://github.com/confooca/2024/blob/main/2024-02-21/The_State_of_WebAssembly-Gerard_Gallant.pdf), [code](https://github.com/confooca/2024/blob/main/2024-02-21/The_State_of_WebAssembly-Gerard_Gallant.zip) |
-| [Intro to Pandas](https://confoo.ca/en/2024/session/intro-to-pandas) | Jessie Newman | [Prep Instructions](https://github.com/confooca/2024/blob/main/2024-02-21/Intro_To_Pandas-Jessie_Newman.pdf) |
+| [Intro to Pandas](https://confoo.ca/en/2024/session/intro-to-pandas) | Jessie Newman | [Kaggle Notebook](https://www.kaggle.com/code/jessienewman/notebooka4f6873f84) |
 | [Cache Me If You Can: Speed Up Your JVM With Project Valhalla](https://confoo.ca/en/2024/session/cache-me-if-you-can-speed-up-your-jvm-with-project-valhalla) | Theresa Mammarella | [slides](2024-02-21/Cache_Me_If_You_Can-Theresa_Mammarella.pdf) |
 |--------------------|---------------|---------|
 
