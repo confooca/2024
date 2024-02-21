@@ -18,6 +18,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [The State of WebAssembly](https://confoo.ca/en/2024/session/the-state-of-webassembly) | Gerard Gallant | [slides](https://github.com/confooca/2024/blob/main/2024-02-21/The_State_of_WebAssembly-Gerard_Gallant.pdf), [code](https://github.com/confooca/2024/blob/main/2024-02-21/The_State_of_WebAssembly-Gerard_Gallant.zip) |
 | [Intro to Pandas](https://confoo.ca/en/2024/session/intro-to-pandas) | Jessie Newman | [Prep Instructions](https://github.com/confooca/2024/blob/main/2024-02-21/Intro_To_Pandas-Jessie_Newman.pdf) |
 | [Cache Me If You Can: Speed Up Your JVM With Project Valhalla](https://confoo.ca/en/2024/session/cache-me-if-you-can-speed-up-your-jvm-with-project-valhalla) | Theresa Mammarella | [slides](2024-02-21/Cache_Me_If_You_Can-Theresa_Mammarella.pdf) |
+| [Generative AI and the future of development](https://confoo.ca/en/2024/session/generative-ai-and-the-future-of-development) | Christopher Harrison | [slides](2024-02-21/gen-ai-development-Christopher-Harrison.pdf)
 |--------------------|---------------|---------|
 
 # February 22
