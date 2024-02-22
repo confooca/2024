@@ -34,6 +34,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Can your Software travel in Time?](https://confoo.ca/en/2024/session/can-your-software-travel-in-time) | [Arne Blankerts](https://thephp.cc/company/consultants/arne-blankerts) | [PDF](2024-02-22/Can-your-Software-travel-in-Time-Arne-Blankerts.pdf) |
 | [Onboarding : De zéro à héro](https://confoo.ca/en/2024/session/onboarding-de-zero-a-heros) | Alexia Proulx | [Slides](2024-02-22/onboarding_de_zero_a_hero-alexia_proulx.pdf) |
 | [Introduction to ReactPHP and Websockets](https://confoo.ca/en/2024/session/introduction-to-reactphp-and-websockets) | Frank Berger | [slides](2024-02-22/introduction_to_reactphp_and_websockets-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-websockets)|
+| [Introduction to Htmx with Go](https://confoo.ca/en/2024/session/introduction-to-htmx) | Francis Lavoie | [slides](2024-02-22/Introduction_to_Htmx_with_Go-Francis_Lavoie.pdf) [code](https://github.com/francisl/htmx-go-intro/)|
 |--------------------|---------------|---------|
 
 # February 23
