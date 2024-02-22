@@ -28,6 +28,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Expecting The Best: How to Manage Unreliable Developers]() | Bryce Embry | [Slides in PDF](2024-02-22/expecting_the_best_how_to_manage_unreliable_developers-bryce_embry.pdf) |
 | [Debugging .NET - Tips and tricks](https://confoo.ca/en/2024/session/expecting-the-best-how-to-manage-unreliable-developers) | Maarten Balliauw | live coding from scratch |
 |--------------------|---------------|---------|
+| [Onboarding : De zéro à héro](https://confoo.ca/en/2024/session/onboarding-de-zero-a-heros) | Alexia Proulx | [Slides](2024-02-22/onboarding_de_zero_a_hero-alexia_proulx.pdf) |
 
 # February 23
 
