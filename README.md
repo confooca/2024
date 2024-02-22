@@ -27,8 +27,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Amazing Algorithms for Solving Problems in Software](https://confoo.ca/en/2024/session/amazing-algorithms-for-solving-problems-in-software) | [Barry S. Stahl](https://www.cognitiveinheritance.com) | [Slides-PDF](./2024-02-22/Amazing_Algorithms-Barry_S_Stahl.pdf), [Slides-Web](https://amazingalgorithms.azurewebsites.net/), [Demos](https://github.com/bsstahl/AIDemos/wiki/VotingAmoebas) |
 | [Expecting The Best: How to Manage Unreliable Developers]() | Bryce Embry | [Slides in PDF](2024-02-22/expecting_the_best_how_to_manage_unreliable_developers-bryce_embry.pdf) |
 | [Debugging .NET - Tips and tricks](https://confoo.ca/en/2024/session/expecting-the-best-how-to-manage-unreliable-developers) | Maarten Balliauw | live coding from scratch |
-|--------------------|---------------|---------|
 | [Onboarding : De zéro à héro](https://confoo.ca/en/2024/session/onboarding-de-zero-a-heros) | Alexia Proulx | [Slides](2024-02-22/onboarding_de_zero_a_hero-alexia_proulx.pdf) |
+|--------------------|---------------|---------|
 
 # February 23
 
