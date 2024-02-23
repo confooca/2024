@@ -34,6 +34,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Can your Software travel in Time?](https://confoo.ca/en/2024/session/can-your-software-travel-in-time) | [Arne Blankerts](https://thephp.cc/company/consultants/arne-blankerts) | [PDF](2024-02-22/Can-your-Software-travel-in-Time-Arne-Blankerts.pdf) |
 | [Onboarding : De zéro à héro](https://confoo.ca/en/2024/session/onboarding-de-zero-a-heros) | Alexia Proulx | [Slides](2024-02-22/onboarding_de_zero_a_hero-alexia_proulx.pdf) |
 | [Introduction to ReactPHP and Websockets](https://confoo.ca/en/2024/session/introduction-to-reactphp-and-websockets) | Frank Berger | [slides](2024-02-22/introduction_to_reactphp_and_websockets-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-websockets)|
+| [Introduction to Htmx with Go](https://confoo.ca/en/2024/session/introduction-to-htmx) | Francis Lavoie | [slides](2024-02-22/Introduction_to_Htmx_with_Go-Francis_Lavoie.pdf) [code](https://github.com/francisl/htmx-go-intro/)|
 |--------------------|---------------|---------|
 
 # February 23
@@ -44,5 +45,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [GPT Embeddings: Not Magic - Just Math](https://confoo.ca/en/2024/session/gpt-embeddings-not-magic-just-math) | [Barry S. Stahl](https://www.cognitiveinheritance.com) | [Slides-PDF](./2024-02-23/GPT_Embeddings-Barry_S_Stahl.pdf), [Slides-Web](https://introtoembeddings.azurewebsites.net/), [Demos](https://github.com/bsstahl/AIDemos/wiki/Embeddings) |
 | [How to Work With Brilliant Developers](https://confoo.ca/en/2024/session/how-to-work-with-brilliant-developers) | Bryce Embry     | [Slides in PDF](2024-02-23/how_to_work_with_brilliant_developers-bryce_embry.pdf) |
 | [Writing Effective Unit Tests](https://confoo.ca/en/2024/session/writing-effective-unit-tests) | Jessie Newman | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/Writing_Effective_Unit_Tests-Jessie_Newman.pdf) |
+
 | [Containerize your development environment](https://confoo.ca/en/2024/session/contain-erize-your-dev-environment-to-free-yourself) | Christopher Harrison | [slides](./2024-02-23/containerize-your-dev-environment.pdf) - [Demo project](https://github.com/GeekTrainer/confoo-django-demo)
-|--------------------|---------------|---------|
+| [The Lazy .NET Programmer's Guide to Unit Testing](https://confoo.ca/en/2024/session/the-lazy-net-programmer-s-guide-to-unit-testing) | Lester Botello | [Slides](2024-02-23/The-Lazy-Programmers-Guide-To-Unit-Testing.pdf), [Code](https://github.com/lesterbotello/ConFoo2024)
+
