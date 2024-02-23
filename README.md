@@ -47,7 +47,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [GPT Embeddings: Not Magic - Just Math](https://confoo.ca/en/2024/session/gpt-embeddings-not-magic-just-math) | [Barry S. Stahl](https://www.cognitiveinheritance.com) | [Slides-PDF](./2024-02-23/GPT_Embeddings-Barry_S_Stahl.pdf), [Slides-Web](https://introtoembeddings.azurewebsites.net/), [Demos](https://github.com/bsstahl/AIDemos/wiki/Embeddings) |
 | [How to Work With Brilliant Developers](https://confoo.ca/en/2024/session/how-to-work-with-brilliant-developers) | Bryce Embry     | [Slides in PDF](2024-02-23/how_to_work_with_brilliant_developers-bryce_embry.pdf) |
 | [Writing Effective Unit Tests](https://confoo.ca/en/2024/session/writing-effective-unit-tests) | Jessie Newman | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/Writing_Effective_Unit_Tests-Jessie_Newman.pdf) |
-
+| [Mastering Web Forms: Designing for User Engagement](https://confoo.ca/en/2024/session/mastering-web-forms-designing-for-user-engagement)) | [Rowdy Rabouw](https://rowdy.codes) | [slides](2024-02-23/mastering_web_forms_rowdy_rabouw.pdf) | 
 | [Containerize your development environment](https://confoo.ca/en/2024/session/contain-erize-your-dev-environment-to-free-yourself) | Christopher Harrison | [slides](./2024-02-23/containerize-your-dev-environment.pdf) - [Demo project](https://github.com/GeekTrainer/confoo-django-demo)
 | [The Lazy .NET Programmer's Guide to Unit Testing](https://confoo.ca/en/2024/session/the-lazy-net-programmer-s-guide-to-unit-testing) | Lester Botello | [Slides](2024-02-23/The-Lazy-Programmers-Guide-To-Unit-Testing.pdf), [Code](https://github.com/lesterbotello/ConFoo2024)
 
