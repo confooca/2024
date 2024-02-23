@@ -35,6 +35,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Onboarding : De zéro à héro](https://confoo.ca/en/2024/session/onboarding-de-zero-a-heros) | Alexia Proulx | [Slides](2024-02-22/onboarding_de_zero_a_hero-alexia_proulx.pdf) |
 | [Introduction to ReactPHP and Websockets](https://confoo.ca/en/2024/session/introduction-to-reactphp-and-websockets) | Frank Berger | [slides](2024-02-22/introduction_to_reactphp_and_websockets-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-websockets)|
 | [Introduction to Htmx with Go](https://confoo.ca/en/2024/session/introduction-to-htmx) | Francis Lavoie | [slides](2024-02-22/Introduction_to_Htmx_with_Go-Francis_Lavoie.pdf) [code](https://github.com/francisl/htmx-go-intro/)|
+| [Adaptive Serverless in Python with AWS Chalice](https://confoo.ca/en/2024/session/adaptive-serverless-in-python-with-aws-chalice) | [Philippe Trépanier](https://www.linkedin.com/in/philippe-trepanier/) | [slides](2024-02-22/adaptive_serverless_in_python_with_aws_chalice-philippe_trepanier.pdf) |
 |--------------------|---------------|---------|
 
 # February 23
@@ -42,6 +43,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 | [Creating a Slack bot to turn AWS services on or off](https://confoo.ca/en/2024/session/creating-a-slack-bot-to-turn-aws-services-on-or-off) | Gerard Gallant | [slides](https://github.com/confooca/2024/blob/main/2024-02-23/Creating_a_Slack_bot_to_turn_AWS_services_on_or_off-Gerard_Gallant.pdf), [code](https://github.com/confooca/2024/blob/main/2024-02-23/Creating_a_Slack_bot_to_turn_AWS_services_on_or_off-Gerard_Gallant.zip) |
+| [Technical Debt Warrior or: Everybody hates you](https://confoo.ca/en/2024/session/technical-debt-warrior-or-everybody-hates-you) | [Philippe Trépanier](https://www.linkedin.com/in/philippe-trepanier/) | [slides](2024-02-23/technical_debt_warrior_or_everybody_hates_you-philippe_trepanier.pdf) |
 | [GPT Embeddings: Not Magic - Just Math](https://confoo.ca/en/2024/session/gpt-embeddings-not-magic-just-math) | [Barry S. Stahl](https://www.cognitiveinheritance.com) | [Slides-PDF](./2024-02-23/GPT_Embeddings-Barry_S_Stahl.pdf), [Slides-Web](https://introtoembeddings.azurewebsites.net/), [Demos](https://github.com/bsstahl/AIDemos/wiki/Embeddings) |
 | [How to Work With Brilliant Developers](https://confoo.ca/en/2024/session/how-to-work-with-brilliant-developers) | Bryce Embry     | [Slides in PDF](2024-02-23/how_to_work_with_brilliant_developers-bryce_embry.pdf) |
 | [Writing Effective Unit Tests](https://confoo.ca/en/2024/session/writing-effective-unit-tests) | Jessie Newman | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/Writing_Effective_Unit_Tests-Jessie_Newman.pdf) |
