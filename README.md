@@ -20,6 +20,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Cache Me If You Can: Speed Up Your JVM With Project Valhalla](https://confoo.ca/en/2024/session/cache-me-if-you-can-speed-up-your-jvm-with-project-valhalla) | Theresa Mammarella | [slides](2024-02-21/Cache_Me_If_You_Can-Theresa_Mammarella.pdf) |
 | [Generative AI and the future of development](https://confoo.ca/en/2024/session/generative-ai-and-the-future-of-development) | Christopher Harrison | [slides](2024-02-21/gen-ai-development-Christopher-Harrison.pdf)
 | [Demystifying OWASP Top 10 Mobile Risks](https://confoo.ca/en/2024/session/demystifying-owasp-top-10-mobile-risks) | Lester Botello | [slides](2024-02-21/Demystifying-OWASP-Top-10-Mobile-Risks-Lester-Botello.pdf) |
+| [Offline First!](https://confoo.ca/en/2024/session/offline-first) | [Rowdy Rabouw](https://rowdy.codes) | [slides](2024-02-21/offline_first_rowdy_rabouw.pdf) | 
+| [A practical introduction to encryption in PHP](https://confoo.ca/en/2024/session/practical-intro-to-encryption-in-php) | Frank Berger | [slides](2024-02-21/a_practical_introduction_to_encryption_in_php-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-intro-to-encryption)|
 |--------------------|---------------|---------|
 
 # February 22
@@ -29,6 +31,9 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Amazing Algorithms for Solving Problems in Software](https://confoo.ca/en/2024/session/amazing-algorithms-for-solving-problems-in-software) | [Barry S. Stahl](https://www.cognitiveinheritance.com) | [Slides-PDF](./2024-02-22/Amazing_Algorithms-Barry_S_Stahl.pdf), [Slides-Web](https://amazingalgorithms.azurewebsites.net/), [Demos](https://github.com/bsstahl/AIDemos/wiki/VotingAmoebas) |
 | [Expecting The Best: How to Manage Unreliable Developers]() | Bryce Embry | [Slides in PDF](2024-02-22/expecting_the_best_how_to_manage_unreliable_developers-bryce_embry.pdf) |
 | [Debugging .NET - Tips and tricks](https://confoo.ca/en/2024/session/expecting-the-best-how-to-manage-unreliable-developers) | Maarten Balliauw | live coding from scratch |
+| [Can your Software travel in Time?](https://confoo.ca/en/2024/session/can-your-software-travel-in-time) | [Arne Blankerts](https://thephp.cc/company/consultants/arne-blankerts) | [PDF](2024-02-22/Can-your-Software-travel-in-Time-Arne-Blankerts.pdf) |
+| [Onboarding : De zéro à héro](https://confoo.ca/en/2024/session/onboarding-de-zero-a-heros) | Alexia Proulx | [Slides](2024-02-22/onboarding_de_zero_a_hero-alexia_proulx.pdf) |
+| [Introduction to ReactPHP and Websockets](https://confoo.ca/en/2024/session/introduction-to-reactphp-and-websockets) | Frank Berger | [slides](2024-02-22/introduction_to_reactphp_and_websockets-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-websockets)|
 |--------------------|---------------|---------|
 
 # February 23
