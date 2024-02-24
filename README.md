@@ -52,4 +52,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Mastering Web Forms: Designing for User Engagement](https://confoo.ca/en/2024/session/mastering-web-forms-designing-for-user-engagement)) | [Rowdy Rabouw](https://rowdy.codes) | [slides](2024-02-23/mastering_web_forms_rowdy_rabouw.pdf) | 
 | [Containerize your development environment](https://confoo.ca/en/2024/session/contain-erize-your-dev-environment-to-free-yourself) | Christopher Harrison | [slides](./2024-02-23/containerize-your-dev-environment.pdf) - [Demo project](https://github.com/GeekTrainer/confoo-django-demo)
 | [The Lazy .NET Programmer's Guide to Unit Testing](https://confoo.ca/en/2024/session/the-lazy-net-programmer-s-guide-to-unit-testing) | Lester Botello | [Slides](2024-02-23/The-Lazy-Programmers-Guide-To-Unit-Testing.pdf), [Code](https://github.com/lesterbotello/ConFoo2024)
-
+| [Observability for Modern JVM Applications](https://confoo.ca/en/2024/session/observability-for-modern-jvm-applications) | Jonatan Ivanov | [Slides](2024-02-23/observability_for_modern_jvm_applications-jonatan_ivanov.pdf), [Demo](https://github.com/jonatan-ivanov/teahouse/tree/2024-confoo)
