@@ -37,9 +37,9 @@ We're really grateful for your presentation at ConFoo 2020. Please use this guid
 
 6. Commit the changes.
 
-7. `git push origin master` to send the changes to your forked repository.
+7. `git push origin main` to send the changes to your forked repository.
 
-8. Return to the master repository, and create a pull request.
+8. Return to the `main` repository, and create a pull request.
 
 9. In short order, we'll merge your changes into place, and your presentation content will be available to all.
 
