@@ -38,8 +38,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Introduction to Htmx with Go](https://confoo.ca/en/2024/session/introduction-to-htmx) | Francis Lavoie | [slides](2024-02-22/Introduction_to_Htmx_with_Go-Francis_Lavoie.pdf) [code](https://github.com/francisl/htmx-go-intro/)|
 | [Adaptive Serverless in Python with AWS Chalice](https://confoo.ca/en/2024/session/adaptive-serverless-in-python-with-aws-chalice) | [Philippe Trépanier](https://www.linkedin.com/in/philippe-trepanier/) | [slides](2024-02-22/adaptive_serverless_in_python_with_aws_chalice-philippe_trepanier.pdf) |
 |[Feature Flags. Often Praised. Seldom Talked About](https://confoo.ca/en/2024/session/feature-flags-often-praised-seldom-talked-about)|[Gabriel Fournier](https://gfournier.ca)|[slides](2024-02-22/Feature-Flags-Often-Praised-Seldom-Talked-About.pdf) [Code](https://github.com/carboneater/confoo-2024-mutation-testing.git)|
-| [Hacking Kubernetes and protecting yourself against it](https://confoo.ca/en/2024/session/hacking-kubernetes-and-protecting-yourself-against-it) | Bastian Hofmann
- | [Slides](https://github.com/confooca/2024/blob/main/2024-02-22/Bastian%20Hofmann%20-%20Hacking%20Kubernetes.pdf) |
+| [Hacking Kubernetes and protecting yourself against it](https://confoo.ca/en/2024/session/hacking-kubernetes-and-protecting-yourself-against-it) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-22/Bastian%20Hofmann%20-%20Hacking%20Kubernetes.pdf) |
 
 # February 23
 
@@ -55,6 +54,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [The Lazy .NET Programmer's Guide to Unit Testing](https://confoo.ca/en/2024/session/the-lazy-net-programmer-s-guide-to-unit-testing) | Lester Botello | [Slides](2024-02-23/The-Lazy-Programmers-Guide-To-Unit-Testing.pdf), [Code](https://github.com/lesterbotello/ConFoo2024)
 | [Leveraging AI into your existing applications](https://confoo.ca/en/2024/session/leveraging-ai-into-your-existing-applications) | Tidjani Belmansour | [Slides](2024-02-23/leverage_ai_into_existing_apps-tidjani_belmansour.pdf), [Code](https://github.com/belrarr/intelligent-apps)
 | [Observability for Modern JVM Applications](https://confoo.ca/en/2024/session/observability-for-modern-jvm-applications) | Jonatan Ivanov | [Slides](2024-02-23/observability_for_modern_jvm_applications-jonatan_ivanov.pdf), [Demo](https://github.com/jonatan-ivanov/teahouse/tree/2024-confoo)
-| [Kubernetes from 0 to production in 60 minutes](https://confoo.ca/en/2024/session/kubernetes-from-0-to-production-in-60-minutes-1) | Bastian Hofmann
- | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/Bastian%20Hofmann%20-%20Kubernetes%20Intro.pdf) |
+| [Kubernetes from 0 to production in 60 minutes](https://confoo.ca/en/2024/session/kubernetes-from-0-to-production-in-60-minutes-1) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/Bastian%20Hofmann%20-%20Kubernetes%20Intro.pdf) |
 
