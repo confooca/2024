@@ -1,7 +1,7 @@
 Adding your Talks
 =================
 
-We're really grateful for your presentation at ConFoo 2020. Please use this guide to share your slides and code samples with attendees.
+We're really grateful for your presentation at ConFoo 2024. Please use this guide to share your slides and code samples with attendees.
 
 
 ## TL;DR

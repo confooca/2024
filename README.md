@@ -39,6 +39,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Adaptive Serverless in Python with AWS Chalice](https://confoo.ca/en/2024/session/adaptive-serverless-in-python-with-aws-chalice) | [Philippe Trépanier](https://www.linkedin.com/in/philippe-trepanier/) | [slides](2024-02-22/adaptive_serverless_in_python_with_aws_chalice-philippe_trepanier.pdf) |
 |[Feature Flags. Often Praised. Seldom Talked About](https://confoo.ca/en/2024/session/feature-flags-often-praised-seldom-talked-about)|[Gabriel Fournier](https://gfournier.ca)|[slides](2024-02-22/Feature-Flags-Often-Praised-Seldom-Talked-About.pdf) [Code](https://github.com/carboneater/confoo-2024-mutation-testing.git)|
 | [Hacking Kubernetes and protecting yourself against it](https://confoo.ca/en/2024/session/hacking-kubernetes-and-protecting-yourself-against-it) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-22/Bastian%20Hofmann%20-%20Hacking%20Kubernetes.pdf) |
+| [Adopter pleinement GitOps](https://confoo.ca/en/2024/session/adopter-pleinement-gitops)                                                  | [Lucien Boix](https://www.linkedin.com/in/lucienboix/) | [Slides](2024-02-22/adopter_pleinement_gitops-lucien-boix.pdf)                                                                                                                    |
 
 # February 23
 
