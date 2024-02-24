@@ -22,6 +22,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Demystifying OWASP Top 10 Mobile Risks](https://confoo.ca/en/2024/session/demystifying-owasp-top-10-mobile-risks) | Lester Botello | [slides](2024-02-21/Demystifying-OWASP-Top-10-Mobile-Risks-Lester-Botello.pdf) |
 | [Offline First!](https://confoo.ca/en/2024/session/offline-first) | [Rowdy Rabouw](https://rowdy.codes) | [slides](2024-02-21/offline_first_rowdy_rabouw.pdf) | 
 | [A practical introduction to encryption in PHP](https://confoo.ca/en/2024/session/practical-intro-to-encryption-in-php) | Frank Berger | [slides](2024-02-21/a_practical_introduction_to_encryption_in_php-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-intro-to-encryption)|
+|[I Have 100% Coverage. Why Did I Have a Regression?](https://confoo.ca/en/2024/session/i-have-100-coverage-why-did-i-have-a-regression)|[Gabriel Fournier](https://gfournier.ca)|[Slides](2024-02-21/I-Have-100-Coverave-Why-Did-I-Have-a-Regression.pdf) [Demo](https://github.com/carboneater/confoo-2024-mutation-testing)|
 |--------------------|---------------|---------|
 
 # February 22
@@ -36,6 +37,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Introduction to ReactPHP and Websockets](https://confoo.ca/en/2024/session/introduction-to-reactphp-and-websockets) | Frank Berger | [slides](2024-02-22/introduction_to_reactphp_and_websockets-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-websockets)|
 | [Introduction to Htmx with Go](https://confoo.ca/en/2024/session/introduction-to-htmx) | Francis Lavoie | [slides](2024-02-22/Introduction_to_Htmx_with_Go-Francis_Lavoie.pdf) [code](https://github.com/francisl/htmx-go-intro/)|
 | [Adaptive Serverless in Python with AWS Chalice](https://confoo.ca/en/2024/session/adaptive-serverless-in-python-with-aws-chalice) | [Philippe Trépanier](https://www.linkedin.com/in/philippe-trepanier/) | [slides](2024-02-22/adaptive_serverless_in_python_with_aws_chalice-philippe_trepanier.pdf) |
+|[Feature Flags. Often Praised. Seldom Talked About](https://confoo.ca/en/2024/session/feature-flags-often-praised-seldom-talked-about)|[Gabriel Fournier](https://gfournier.ca)|[slides](2024-02-22/Feature-Flags-Often-Praised-Seldom-Talked-About.pdf) [Code](https://github.com/carboneater/confoo-2024-mutation-testing.git)|
 |--------------------|---------------|---------|
 
 # February 23
@@ -51,3 +53,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Containerize your development environment](https://confoo.ca/en/2024/session/contain-erize-your-dev-environment-to-free-yourself) | Christopher Harrison | [slides](./2024-02-23/containerize-your-dev-environment.pdf) - [Demo project](https://github.com/GeekTrainer/confoo-django-demo)
 | [The Lazy .NET Programmer's Guide to Unit Testing](https://confoo.ca/en/2024/session/the-lazy-net-programmer-s-guide-to-unit-testing) | Lester Botello | [Slides](2024-02-23/The-Lazy-Programmers-Guide-To-Unit-Testing.pdf), [Code](https://github.com/lesterbotello/ConFoo2024)
 | [Leveraging AI into your existing applications](https://confoo.ca/en/2024/session/leveraging-ai-into-your-existing-applications) | Tidjani Belmansour | [Slides](2024-02-23/leverage_ai_into_existing_apps-tidjani_belmansour.pdf), [Code](https://github.com/belrarr/intelligent-apps)
+| [Observability for Modern JVM Applications](https://confoo.ca/en/2024/session/observability-for-modern-jvm-applications) | Jonatan Ivanov | [Slides](2024-02-23/observability_for_modern_jvm_applications-jonatan_ivanov.pdf), [Demo](https://github.com/jonatan-ivanov/teahouse/tree/2024-confoo)
+
