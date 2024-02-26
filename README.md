@@ -24,7 +24,6 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [A practical introduction to encryption in PHP](https://confoo.ca/en/2024/session/practical-intro-to-encryption-in-php) | Frank Berger | [slides](2024-02-21/a_practical_introduction_to_encryption_in_php-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-intro-to-encryption)|
 |[I Have 100% Coverage. Why Did I Have a Regression?](https://confoo.ca/en/2024/session/i-have-100-coverage-why-did-i-have-a-regression)|[Gabriel Fournier](https://gfournier.ca)|[Slides](2024-02-21/I-Have-100-Coverave-Why-Did-I-Have-a-Regression.pdf) [Demo](https://github.com/carboneater/confoo-2024-mutation-testing)|
 | [Procrastinate! Or at least your app should…](https://confoo.ca/en/2024/session/procrastinate-or-at-least-your-app-should) | Sébastien Ballangé | [slides](2024-02-21/Procrastinate_Or_at_least_your_app_should-Sebastien_Ballange.pdf) |
-|--------------------|---------------|---------|
 
 # February 22
 
