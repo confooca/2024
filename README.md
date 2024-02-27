@@ -23,7 +23,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Offline First!](https://confoo.ca/en/2024/session/offline-first) | [Rowdy Rabouw](https://rowdy.codes) | [slides](2024-02-21/offline_first_rowdy_rabouw.pdf) |
 | [A practical introduction to encryption in PHP](https://confoo.ca/en/2024/session/practical-intro-to-encryption-in-php) | Frank Berger | [slides](2024-02-21/a_practical_introduction_to_encryption_in_php-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-intro-to-encryption)|
 |[I Have 100% Coverage. Why Did I Have a Regression?](https://confoo.ca/en/2024/session/i-have-100-coverage-why-did-i-have-a-regression)|[Gabriel Fournier](https://gfournier.ca)|[Slides](2024-02-21/I-Have-100-Coverave-Why-Did-I-Have-a-Regression.pdf) [Demo](https://github.com/carboneater/confoo-2024-mutation-testing)|
-|--------------------|---------------|---------|
+| [Procrastinate! Or at least your app should…](https://confoo.ca/en/2024/session/procrastinate-or-at-least-your-app-should) | Sébastien Ballangé | [slides](2024-02-21/Procrastinate_Or_at_least_your_app_should-Sebastien_Ballange.pdf) |
 
 # February 22
 
@@ -40,7 +40,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 |[Feature Flags. Often Praised. Seldom Talked About](https://confoo.ca/en/2024/session/feature-flags-often-praised-seldom-talked-about)|[Gabriel Fournier](https://gfournier.ca)|[slides](2024-02-22/Feature-Flags-Often-Praised-Seldom-Talked-About.pdf) [Code](https://github.com/carboneater/confoo-2024-mutation-testing.git)|
 | [Hacking Kubernetes and protecting yourself against it](https://confoo.ca/en/2024/session/hacking-kubernetes-and-protecting-yourself-against-it) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-22/Bastian%20Hofmann%20-%20Hacking%20Kubernetes.pdf) |
 | [Adopter pleinement GitOps](https://confoo.ca/en/2024/session/adopter-pleinement-gitops)                                                  | [Lucien Boix](https://www.linkedin.com/in/lucienboix/) | [Slides](2024-02-22/adopter_pleinement_gitops-lucien-boix.pdf) |
-| [Sustainable Web Development](https://confoo.ca/en/2024/session/sustainable-web-development)                                                  | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-22/sustainable-web-dev.pdf)                                                                                                                    |
+| [Sustainable Web Development](https://confoo.ca/en/2024/session/sustainable-web-development)                                                  | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-22/sustainable-web-dev.pdf) |
 
 # February 23
 
@@ -58,4 +58,6 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Observability for Modern JVM Applications](https://confoo.ca/en/2024/session/observability-for-modern-jvm-applications) | Jonatan Ivanov | [Slides](2024-02-23/observability_for_modern_jvm_applications-jonatan_ivanov.pdf), [Demo](https://github.com/jonatan-ivanov/teahouse/tree/2024-confoo)
 | [Kubernetes from 0 to production in 60 minutes](https://confoo.ca/en/2024/session/kubernetes-from-0-to-production-in-60-minutes-1) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/Bastian%20Hofmann%20-%20Kubernetes%20Intro.pdf) |
 | [Transactions? Pah! Joins? Overrated! Adventure in fast big data](https://confoo.ca/en/2024/session/transactions-pah-joins-overrated-adventure-in-fast-big-data) | Robert Hodges | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/ConFoo-Transactions-Joins--Overrated-Adventures-in-big-data-2024-02-23.pdf) |
-| [Building Design Systems with Web Components](https://confoo.ca/en/2024/session/building-design-systems-with-web-components)                                                  | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-23/building-design-systems-with-web-components.pdf)
+| [Building Design Systems with Web Components](https://confoo.ca/en/2024/session/building-design-systems-with-web-components) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-23/building-design-systems-with-web-components.pdf) |
+| [Le monolithe est mort, vive le monolithe !](https://confoo.ca/en/2024/session/le-monolithe-est-mort-vive-le-monolithe) | Sébastien Ballangé | [slides](2024-02-23/Le_monolithe_est_mort_vive_le_monolithe-Sebastien_Ballange.pdf) |
+
