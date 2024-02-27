@@ -22,7 +22,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Demystifying OWASP Top 10 Mobile Risks](https://confoo.ca/en/2024/session/demystifying-owasp-top-10-mobile-risks) | Lester Botello | [slides](2024-02-21/Demystifying-OWASP-Top-10-Mobile-Risks-Lester-Botello.pdf) |
 | [Offline First!](https://confoo.ca/en/2024/session/offline-first) | [Rowdy Rabouw](https://rowdy.codes) | [slides](2024-02-21/offline_first_rowdy_rabouw.pdf) | 
 | [A practical introduction to encryption in PHP](https://confoo.ca/en/2024/session/practical-intro-to-encryption-in-php) | Frank Berger | [slides](2024-02-21/a_practical_introduction_to_encryption_in_php-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-intro-to-encryption)|
-|[I Have 100% Coverage. Why Did I Have a Regression?](https://confoo.ca/en/2024/session/i-have-100-coverage-why-did-i-have-a-regression)|[Gabriel Fournier](https://gfournier.ca)|[Slides](2024-02-21/I-Have-100-Coverave-Why-Did-I-Have-a-Regression.pdf) [Demo](https://github.com/carboneater/confoo-2024-mutation-testing)|
+| [I Have 100% Coverage. Why Did I Have a Regression?](https://confoo.ca/en/2024/session/i-have-100-coverage-why-did-i-have-a-regression)|[Gabriel Fournier](https://gfournier.ca)|[Slides](2024-02-21/I-Have-100-Coverave-Why-Did-I-Have-a-Regression.pdf) [Demo](https://github.com/carboneater/confoo-2024-mutation-testing)|
+| [Java 21: La version que vous devriez utiliser (LTS)](https://confoo.ca/en/2024/session/java-21-la-version-que-vous-devriez-utiliser-lts)| [Henri Tremblay](https://blog.tremblay.pro) | [Slides](2024-02-21/java_21-henri_tremblay.pdf) [Demo](https://github.com/henri-tremblay/java91011beyond) |
 |--------------------|---------------|---------|
 
 # February 22
@@ -57,3 +58,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Observability for Modern JVM Applications](https://confoo.ca/en/2024/session/observability-for-modern-jvm-applications) | Jonatan Ivanov | [Slides](2024-02-23/observability_for_modern_jvm_applications-jonatan_ivanov.pdf), [Demo](https://github.com/jonatan-ivanov/teahouse/tree/2024-confoo)
 | [Kubernetes from 0 to production in 60 minutes](https://confoo.ca/en/2024/session/kubernetes-from-0-to-production-in-60-minutes-1) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/Bastian%20Hofmann%20-%20Kubernetes%20Intro.pdf) |
 | [Transactions? Pah! Joins? Overrated! Adventure in fast big data](https://confoo.ca/en/2024/session/transactions-pah-joins-overrated-adventure-in-fast-big-data) | Robert Hodges | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/ConFoo-Transactions-Joins--Overrated-Adventures-in-big-data-2024-02-23.pdf) |
+| [L'histoire de la programmation parallèle en Java](https://confoo.ca/en/2024/session/l-histoire-de-la-programmation-parallele-en-java-1)| [Henri Tremblay](https://blog.tremblay.pro) | [Slides](2024-02-23/histoire_de_la_programmation_parallele_en_java-henri_tremblay.pdf) |
