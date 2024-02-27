@@ -20,11 +20,11 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Cache Me If You Can: Speed Up Your JVM With Project Valhalla](https://confoo.ca/en/2024/session/cache-me-if-you-can-speed-up-your-jvm-with-project-valhalla) | Theresa Mammarella | [slides](2024-02-21/Cache_Me_If_You_Can-Theresa_Mammarella.pdf) |
 | [Generative AI and the future of development](https://confoo.ca/en/2024/session/generative-ai-and-the-future-of-development) | Christopher Harrison | [slides](2024-02-21/gen-ai-development-Christopher-Harrison.pdf)
 | [Demystifying OWASP Top 10 Mobile Risks](https://confoo.ca/en/2024/session/demystifying-owasp-top-10-mobile-risks) | Lester Botello | [slides](2024-02-21/Demystifying-OWASP-Top-10-Mobile-Risks-Lester-Botello.pdf) |
-| [Offline First!](https://confoo.ca/en/2024/session/offline-first) | [Rowdy Rabouw](https://rowdy.codes) | [slides](2024-02-21/offline_first_rowdy_rabouw.pdf) | 
+| [Offline First!](https://confoo.ca/en/2024/session/offline-first) | [Rowdy Rabouw](https://rowdy.codes) | [slides](2024-02-21/offline_first_rowdy_rabouw.pdf) |
 | [A practical introduction to encryption in PHP](https://confoo.ca/en/2024/session/practical-intro-to-encryption-in-php) | Frank Berger | [slides](2024-02-21/a_practical_introduction_to_encryption_in_php-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-intro-to-encryption)|
 | [I Have 100% Coverage. Why Did I Have a Regression?](https://confoo.ca/en/2024/session/i-have-100-coverage-why-did-i-have-a-regression)|[Gabriel Fournier](https://gfournier.ca)|[Slides](2024-02-21/I-Have-100-Coverave-Why-Did-I-Have-a-Regression.pdf) [Demo](https://github.com/carboneater/confoo-2024-mutation-testing)|
 | [Java 21: La version que vous devriez utiliser (LTS)](https://confoo.ca/en/2024/session/java-21-la-version-que-vous-devriez-utiliser-lts)| [Henri Tremblay](https://blog.tremblay.pro) | [Slides](2024-02-21/java_21-henri_tremblay.pdf) [Demo](https://github.com/henri-tremblay/java91011beyond) |
-|--------------------|---------------|---------|
+| [Procrastinate! Or at least your app should…](https://confoo.ca/en/2024/session/procrastinate-or-at-least-your-app-should) | Sébastien Ballangé | [slides](2024-02-21/Procrastinate_Or_at_least_your_app_should-Sebastien_Ballange.pdf) |
 
 # February 22
 
@@ -40,7 +40,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Adaptive Serverless in Python with AWS Chalice](https://confoo.ca/en/2024/session/adaptive-serverless-in-python-with-aws-chalice) | [Philippe Trépanier](https://www.linkedin.com/in/philippe-trepanier/) | [slides](2024-02-22/adaptive_serverless_in_python_with_aws_chalice-philippe_trepanier.pdf) |
 |[Feature Flags. Often Praised. Seldom Talked About](https://confoo.ca/en/2024/session/feature-flags-often-praised-seldom-talked-about)|[Gabriel Fournier](https://gfournier.ca)|[slides](2024-02-22/Feature-Flags-Often-Praised-Seldom-Talked-About.pdf) [Code](https://github.com/carboneater/confoo-2024-mutation-testing.git)|
 | [Hacking Kubernetes and protecting yourself against it](https://confoo.ca/en/2024/session/hacking-kubernetes-and-protecting-yourself-against-it) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-22/Bastian%20Hofmann%20-%20Hacking%20Kubernetes.pdf) |
-| [Adopter pleinement GitOps](https://confoo.ca/en/2024/session/adopter-pleinement-gitops)                                                  | [Lucien Boix](https://www.linkedin.com/in/lucienboix/) | [Slides](2024-02-22/adopter_pleinement_gitops-lucien-boix.pdf)                                                                                                                    |
+| [Adopter pleinement GitOps](https://confoo.ca/en/2024/session/adopter-pleinement-gitops) | [Lucien Boix](https://www.linkedin.com/in/lucienboix/) | [Slides](2024-02-22/adopter_pleinement_gitops-lucien-boix.pdf) |
+| [Sustainable Web Development](https://confoo.ca/en/2024/session/sustainable-web-development) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-22/sustainable-web-dev.pdf) |
 
 # February 23
 
@@ -51,7 +52,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [GPT Embeddings: Not Magic - Just Math](https://confoo.ca/en/2024/session/gpt-embeddings-not-magic-just-math) | [Barry S. Stahl](https://www.cognitiveinheritance.com) | [Slides-PDF](./2024-02-23/GPT_Embeddings-Barry_S_Stahl.pdf), [Slides-Web](https://introtoembeddings.azurewebsites.net/), [Demos](https://github.com/bsstahl/AIDemos/wiki/Embeddings) |
 | [How to Work With Brilliant Developers](https://confoo.ca/en/2024/session/how-to-work-with-brilliant-developers) | Bryce Embry     | [Slides in PDF](2024-02-23/how_to_work_with_brilliant_developers-bryce_embry.pdf) |
 | [Writing Effective Unit Tests](https://confoo.ca/en/2024/session/writing-effective-unit-tests) | Jessie Newman | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/Writing_Effective_Unit_Tests-Jessie_Newman.pdf) |
-| [Mastering Web Forms: Designing for User Engagement](https://confoo.ca/en/2024/session/mastering-web-forms-designing-for-user-engagement)) | [Rowdy Rabouw](https://rowdy.codes) | [slides](2024-02-23/mastering_web_forms_rowdy_rabouw.pdf) | 
+| [Mastering Web Forms: Designing for User Engagement](https://confoo.ca/en/2024/session/mastering-web-forms-designing-for-user-engagement)) | [Rowdy Rabouw](https://rowdy.codes) | [slides](2024-02-23/mastering_web_forms_rowdy_rabouw.pdf) |
 | [Containerize your development environment](https://confoo.ca/en/2024/session/contain-erize-your-dev-environment-to-free-yourself) | Christopher Harrison | [slides](./2024-02-23/containerize-your-dev-environment.pdf) - [Demo project](https://github.com/GeekTrainer/confoo-django-demo)
 | [The Lazy .NET Programmer's Guide to Unit Testing](https://confoo.ca/en/2024/session/the-lazy-net-programmer-s-guide-to-unit-testing) | Lester Botello | [Slides](2024-02-23/The-Lazy-Programmers-Guide-To-Unit-Testing.pdf), [Code](https://github.com/lesterbotello/ConFoo2024)
 | [Leveraging AI into your existing applications](https://confoo.ca/en/2024/session/leveraging-ai-into-your-existing-applications) | Tidjani Belmansour | [Slides](2024-02-23/leverage_ai_into_existing_apps-tidjani_belmansour.pdf), [Code](https://github.com/belrarr/intelligent-apps)
@@ -59,3 +60,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Kubernetes from 0 to production in 60 minutes](https://confoo.ca/en/2024/session/kubernetes-from-0-to-production-in-60-minutes-1) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/Bastian%20Hofmann%20-%20Kubernetes%20Intro.pdf) |
 | [Transactions? Pah! Joins? Overrated! Adventure in fast big data](https://confoo.ca/en/2024/session/transactions-pah-joins-overrated-adventure-in-fast-big-data) | Robert Hodges | [Slides](https://github.com/confooca/2024/blob/main/2024-02-23/ConFoo-Transactions-Joins--Overrated-Adventures-in-big-data-2024-02-23.pdf) |
 | [L'histoire de la programmation parallèle en Java](https://confoo.ca/en/2024/session/l-histoire-de-la-programmation-parallele-en-java-1)| [Henri Tremblay](https://blog.tremblay.pro) | [Slides](2024-02-23/histoire_de_la_programmation_parallele_en_java-henri_tremblay.pdf) |
+| [Building Design Systems with Web Components](https://confoo.ca/en/2024/session/building-design-systems-with-web-components) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-23/building-design-systems-with-web-components.pdf) |
+| [Le monolithe est mort, vive le monolithe !](https://confoo.ca/en/2024/session/le-monolithe-est-mort-vive-le-monolithe) | Sébastien Ballangé | [slides](2024-02-23/Le_monolithe_est_mort_vive_le_monolithe-Sebastien_Ballange.pdf) |
