@@ -42,6 +42,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Hacking Kubernetes and protecting yourself against it](https://confoo.ca/en/2024/session/hacking-kubernetes-and-protecting-yourself-against-it) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-22/Bastian%20Hofmann%20-%20Hacking%20Kubernetes.pdf) |
 | [Adopter pleinement GitOps](https://confoo.ca/en/2024/session/adopter-pleinement-gitops) | [Lucien Boix](https://www.linkedin.com/in/lucienboix/) | [Slides](2024-02-22/adopter_pleinement_gitops-lucien-boix.pdf) |
 | [Sustainable Web Development](https://confoo.ca/en/2024/session/sustainable-web-development) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-22/sustainable-web-dev.pdf) |
+| [I deploy on Fridays (and maybe you should too)](https://confoo.ca/en/2024/session/i-deploy-on-fridays-and-maybe-you-should-too-1) | [Michiel Rook](https://www.michielrook.nl) | [Slides](2024-02-22/i_deploy_on_fridays-michiel_rook.pdf) | 
 
 # February 23
 
