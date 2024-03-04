@@ -28,20 +28,21 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 # February 22
 
-| Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|
+| Presentation Title | Speaker Name    | Content |
+|--------------------|-----------------|---------|
 | [Amazing Algorithms for Solving Problems in Software](https://confoo.ca/en/2024/session/amazing-algorithms-for-solving-problems-in-software) | [Barry S. Stahl](https://www.cognitiveinheritance.com) | [Slides-PDF](./2024-02-22/Amazing_Algorithms-Barry_S_Stahl.pdf), [Slides-Web](https://amazingalgorithms.azurewebsites.net/), [Demos](https://github.com/bsstahl/AIDemos/wiki/VotingAmoebas) |
-| [Expecting The Best: How to Manage Unreliable Developers]() | Bryce Embry | [Slides in PDF](2024-02-22/expecting_the_best_how_to_manage_unreliable_developers-bryce_embry.pdf) |
+| [Expecting The Best: How to Manage Unreliable Developers]() | Bryce Embry     | [Slides in PDF](2024-02-22/expecting_the_best_how_to_manage_unreliable_developers-bryce_embry.pdf) |
 | [Debugging .NET - Tips and tricks](https://confoo.ca/en/2024/session/expecting-the-best-how-to-manage-unreliable-developers) | Maarten Balliauw | live coding from scratch |
 | [Can your Software travel in Time?](https://confoo.ca/en/2024/session/can-your-software-travel-in-time) | [Arne Blankerts](https://thephp.cc/company/consultants/arne-blankerts) | [PDF](2024-02-22/Can-your-Software-travel-in-Time-Arne-Blankerts.pdf) |
-| [Onboarding : De zéro à héro](https://confoo.ca/en/2024/session/onboarding-de-zero-a-heros) | Alexia Proulx | [Slides](2024-02-22/onboarding_de_zero_a_hero-alexia_proulx.pdf) |
-| [Introduction to ReactPHP and Websockets](https://confoo.ca/en/2024/session/introduction-to-reactphp-and-websockets) | Frank Berger | [slides](2024-02-22/introduction_to_reactphp_and_websockets-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-websockets)|
-| [Introduction to Htmx with Go](https://confoo.ca/en/2024/session/introduction-to-htmx) | Francis Lavoie | [slides](2024-02-22/Introduction_to_Htmx_with_Go-Francis_Lavoie.pdf) [code](https://github.com/francisl/htmx-go-intro/)|
+| [Onboarding : De zéro à héro](https://confoo.ca/en/2024/session/onboarding-de-zero-a-heros) | Alexia Proulx   | [Slides](2024-02-22/onboarding_de_zero_a_hero-alexia_proulx.pdf) |
+| [Introduction to ReactPHP and Websockets](https://confoo.ca/en/2024/session/introduction-to-reactphp-and-websockets) | Frank Berger    | [slides](2024-02-22/introduction_to_reactphp_and_websockets-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-websockets)|
+| [Introduction to Htmx with Go](https://confoo.ca/en/2024/session/introduction-to-htmx) | Francis Lavoie  | [slides](2024-02-22/Introduction_to_Htmx_with_Go-Francis_Lavoie.pdf) [code](https://github.com/francisl/htmx-go-intro/)|
 | [Adaptive Serverless in Python with AWS Chalice](https://confoo.ca/en/2024/session/adaptive-serverless-in-python-with-aws-chalice) | [Philippe Trépanier](https://www.linkedin.com/in/philippe-trepanier/) | [slides](2024-02-22/adaptive_serverless_in_python_with_aws_chalice-philippe_trepanier.pdf) |
-|[Feature Flags. Often Praised. Seldom Talked About](https://confoo.ca/en/2024/session/feature-flags-often-praised-seldom-talked-about)|[Gabriel Fournier](https://gfournier.ca)|[slides](2024-02-22/Feature-Flags-Often-Praised-Seldom-Talked-About.pdf) [Code](https://github.com/carboneater/confoo-2024-mutation-testing.git)|
+|[Feature Flags. Often Praised. Seldom Talked About](https://confoo.ca/en/2024/session/feature-flags-often-praised-seldom-talked-about)| [Gabriel Fournier](https://gfournier.ca) |[slides](2024-02-22/Feature-Flags-Often-Praised-Seldom-Talked-About.pdf) [Code](https://github.com/carboneater/confoo-2024-mutation-testing.git)|
 | [Hacking Kubernetes and protecting yourself against it](https://confoo.ca/en/2024/session/hacking-kubernetes-and-protecting-yourself-against-it) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-22/Bastian%20Hofmann%20-%20Hacking%20Kubernetes.pdf) |
 | [Adopter pleinement GitOps](https://confoo.ca/en/2024/session/adopter-pleinement-gitops) | [Lucien Boix](https://www.linkedin.com/in/lucienboix/) | [Slides](2024-02-22/adopter_pleinement_gitops-lucien-boix.pdf) |
 | [Sustainable Web Development](https://confoo.ca/en/2024/session/sustainable-web-development) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-22/sustainable-web-dev.pdf) |
+| [The road to migrate from legacy to modern stack](https://confoo.ca/en/2024/session/the-road-to-migrate-from-legacy-to-modern-stack) | Ivan Manzanilla | [Slides](2024-02-22/the_road_to_migrate_from_legacy_to_modern_stack-ivan-manzanilla.pdf) |
 
 # February 23
 
