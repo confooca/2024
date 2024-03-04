@@ -42,6 +42,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Hacking Kubernetes and protecting yourself against it](https://confoo.ca/en/2024/session/hacking-kubernetes-and-protecting-yourself-against-it) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-22/Bastian%20Hofmann%20-%20Hacking%20Kubernetes.pdf) |
 | [Adopter pleinement GitOps](https://confoo.ca/en/2024/session/adopter-pleinement-gitops) | [Lucien Boix](https://www.linkedin.com/in/lucienboix/) | [Slides](2024-02-22/adopter_pleinement_gitops-lucien-boix.pdf) |
 | [Sustainable Web Development](https://confoo.ca/en/2024/session/sustainable-web-development) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-22/sustainable-web-dev.pdf) |
+| [Single Page Applications vs. Cross-Site Scripting](https://confoo.ca/en/2024/session/single-page-applications-vs-cross-site-scripting) | [Christian Wenz](https://christianwenz.de) | [Slides](2024-02-22/single_page_applications_vs_cross_site_scripting-christian_wenz) |
 
 # February 23
 
@@ -63,3 +64,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Building Design Systems with Web Components](https://confoo.ca/en/2024/session/building-design-systems-with-web-components) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-23/building-design-systems-with-web-components.pdf) |
 | [Le monolithe est mort, vive le monolithe !](https://confoo.ca/en/2024/session/le-monolithe-est-mort-vive-le-monolithe) | Sébastien Ballangé | [slides](2024-02-23/Le_monolithe_est_mort_vive_le_monolithe-Sebastien_Ballange.pdf) |
 | [Threat Modeling Capabilities](https://confoo.ca/fr/2024/session/threat-modeling-organizational-planning) | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [Slides](https://docs.google.com/presentation/d/1FBirym_2H3dZjBR40TDgGhmjqVUUcGFZX2u70uZDuas/preview) |
+| [Top ASP.NET Core 8 & Blazor 8 Features](https://confoo.ca/en/2024/session/top-asp-net-core-8-blazor-8-features) | [Christian Wenz](https://christianwenz.de) | [slides](2024-02-23/top_asp_net_core_8_blazor_8_features-christian_wenz.pdf) |
+| [How to mess up JWT's - a practitioner's guide](https://confoo.ca/en/2024/session/how-to-mess-up-jwt-s-a-practitioner-s-guide) | [Christian Wenz](https://christianwenz.de) | [slides](2024-02-23/how_to_mess_up_jwts-christian_wenz.pdf) |
