@@ -25,6 +25,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [I Have 100% Coverage. Why Did I Have a Regression?](https://confoo.ca/en/2024/session/i-have-100-coverage-why-did-i-have-a-regression)|[Gabriel Fournier](https://gfournier.ca)|[Slides](2024-02-21/I-Have-100-Coverave-Why-Did-I-Have-a-Regression.pdf) [Demo](https://github.com/carboneater/confoo-2024-mutation-testing)|
 | [Java 21: La version que vous devriez utiliser (LTS)](https://confoo.ca/en/2024/session/java-21-la-version-que-vous-devriez-utiliser-lts)| [Henri Tremblay](https://blog.tremblay.pro) | [Slides](2024-02-21/java_21-henri_tremblay.pdf) [Demo](https://github.com/henri-tremblay/java91011beyond) |
 | [Procrastinate! Or at least your app should…](https://confoo.ca/en/2024/session/procrastinate-or-at-least-your-app-should) | Sébastien Ballangé | [slides](2024-02-21/Procrastinate_Or_at_least_your_app_should-Sebastien_Ballange.pdf) |
+| [I Completed All 8 Advents of Code in One Go: Lessons Learned](https://confoo.ca/en/2024/session/i-completed-all-8-advents-of-code-in-one-go-lessons-learned) | [Teiva Harsanyi](https://teivah.dev) | [slides](2024-02-21/i-completed-all-9-advents-of-code.pdf) |
 
 # February 22
 
@@ -63,3 +64,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Building Design Systems with Web Components](https://confoo.ca/en/2024/session/building-design-systems-with-web-components) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-23/building-design-systems-with-web-components.pdf) |
 | [Le monolithe est mort, vive le monolithe !](https://confoo.ca/en/2024/session/le-monolithe-est-mort-vive-le-monolithe) | Sébastien Ballangé | [slides](2024-02-23/Le_monolithe_est_mort_vive_le_monolithe-Sebastien_Ballange.pdf) |
 | [Threat Modeling Capabilities](https://confoo.ca/fr/2024/session/threat-modeling-organizational-planning) | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [Slides](https://docs.google.com/presentation/d/1FBirym_2H3dZjBR40TDgGhmjqVUUcGFZX2u70uZDuas/preview) |
+| [4 Reliability Anti-Patterns](https://confoo.ca/en/2024/session/5-reliability-anti-patterns) | [Teiva Harsanyi](https://teivah.dev) | [slides](2024-02-23/4-reliability-anti-patterns.pdf) |
