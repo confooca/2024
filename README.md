@@ -42,6 +42,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Hacking Kubernetes and protecting yourself against it](https://confoo.ca/en/2024/session/hacking-kubernetes-and-protecting-yourself-against-it) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-22/Bastian%20Hofmann%20-%20Hacking%20Kubernetes.pdf) |
 | [Adopter pleinement GitOps](https://confoo.ca/en/2024/session/adopter-pleinement-gitops) | [Lucien Boix](https://www.linkedin.com/in/lucienboix/) | [Slides](2024-02-22/adopter_pleinement_gitops-lucien-boix.pdf) |
 | [Sustainable Web Development](https://confoo.ca/en/2024/session/sustainable-web-development) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-22/sustainable-web-dev.pdf) |
+| [Navigating Tech Decisions: A Startup Survival Guide](https://confoo.ca/en/2024/session/navigating-tech-decisions-a-startup-survival-guide) | [Tobias Schlitt](https://schlitt.info) | [Slides](2024-02-22/tobias_schlitt_-_navigating_tech_decisions_a_startup_survival_guide.pdf) |
 
 # February 23
 
@@ -63,3 +64,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Building Design Systems with Web Components](https://confoo.ca/en/2024/session/building-design-systems-with-web-components) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-23/building-design-systems-with-web-components.pdf) |
 | [Le monolithe est mort, vive le monolithe !](https://confoo.ca/en/2024/session/le-monolithe-est-mort-vive-le-monolithe) | Sébastien Ballangé | [slides](2024-02-23/Le_monolithe_est_mort_vive_le_monolithe-Sebastien_Ballange.pdf) |
 | [Threat Modeling Capabilities](https://confoo.ca/fr/2024/session/threat-modeling-organizational-planning) | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [Slides](https://docs.google.com/presentation/d/1FBirym_2H3dZjBR40TDgGhmjqVUUcGFZX2u70uZDuas/preview) |
+| [Why a slim domain model is superior in web](https://confoo.ca/en/2024/session/why-a-slim-domain-model-is-superior-in-web) | [Tobias Schlitt](https://schlitt.info) | [Slides](2024-02-23/tobias_schlitt_-_why_a_slim_domain_model_is_superior_in_web.pdf) |
