@@ -13,6 +13,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| [Why we should keep Internet decentralized](https://confoo.ca/en/2024/session/why-we-should-keep-internet-decentralized) | Alexis Agahi | [slides](2024-02-21/why_we_should_keep_internet_decentralized-alexis_agahi.pdf) |
 | [#nullable enable - unlock the power of C# nullability](https://confoo.ca/en/2024/session/nullable-enable-unlock-the-power-of-c-nullability) | Maarten Balliauw | [slides](2024-02-21/nullability-csharp_maarten-balliauw.pdf) |
 | [The State of WebAssembly](https://confoo.ca/en/2024/session/the-state-of-webassembly) | Gerard Gallant | [slides](https://github.com/confooca/2024/blob/main/2024-02-21/The_State_of_WebAssembly-Gerard_Gallant.pdf), [code](https://github.com/confooca/2024/blob/main/2024-02-21/The_State_of_WebAssembly-Gerard_Gallant.zip) |
 | [Intro to Pandas](https://confoo.ca/en/2024/session/intro-to-pandas) | Jessie Newman | [Kaggle Notebook](https://www.kaggle.com/code/jessienewman/notebooka4f6873f84) |
