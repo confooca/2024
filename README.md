@@ -59,6 +59,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Navigating Tech Decisions: A Startup Survival Guide](https://confoo.ca/en/2024/session/navigating-tech-decisions-a-startup-survival-guide) | [Tobias Schlitt](https://schlitt.info) | [Slides](2024-02-22/tobias_schlitt_-_navigating_tech_decisions_a_startup_survival_guide.pdf) |
 | [Jakarta EE 11 - Performance and Developer Productivity](https://confoo.ca/en/2024/session/jakarta-ee-11-performance-and-developer-productivity) | [Ivar Grimstad](https://jakarta.ee/community/developer-advocate/) | [Slides](2024-02-22/jakarta-ee-11-performance-and-developer-productivity_ivar-grimstad.pdf) |
 | [Spring Boot 2 to Spring Boot 3 with Java 21 and Jakarta EE](https://confoo.ca/en/2024/session/spring-boot-2-to-spring-boot-3-with-java-21-and-jakarta-ee) | [Ivar Grimstad](https://jakarta.ee/community/developer-advocate/) | [Slides](2024-02-22/spring-boot-2-to-spring-boot-3-with-java-21-and-jakarta-ee_ivar-grimstad.pdf) |
+| [I deploy on Fridays (and maybe you should too)](https://confoo.ca/en/2024/session/i-deploy-on-fridays-and-maybe-you-should-too-1) | [Michiel Rook](https://www.michielrook.nl) | [Slides](2024-02-22/i_deploy_on_fridays-michiel_rook.pdf) | 
+
 
 # February 23
 
