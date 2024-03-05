@@ -27,7 +27,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Going crazy with caching: Caching pages of logged in users](https://confoo.ca/en/2024/session/going-crazy-with-caching-caching-pages-of-logged-in-users) | [David Buchmann](https://davidbu.ch/mann/) | [slides](2024-02-21/varnish-advanced_David-Buchmann.html) |
 | [Accélérer le déploiement de modèles de machine learning](https://confoo.ca/en/2024/session/accelerer-le-deploiement-de-modeles-de-machine-learning) | Amine Saboni | [Slides](2024-02-21/Accelerer_le_deploiement_de_modeles_de_machine_learning-amine_saboni.pdf)|
 | [Boosting Web Engagement with Symfony UX](https://confoo.ca/fr/2024/session/boosting-web-engagement-with-symfony-ux) | Nicolas Grekas | [slides](2024-02-21/Boosting_Web_Engagement_with_Symfony_UX-Nicolas_Grekas.pdf) | 
-| [QUIC & HTTP/3 - the next step in web performance](https://confoo.ca/en/2024/session/quic-and-http-3-the-next-step-in-web-performance) | [Marcus Bointon](https://marcus.bointon.com/) | [Slides in PDF](2024-02-21/Marcus_Bointon_-_HTTP3_and_QUIC.pdf) |
+| [QUIC & HTTP/3 - the next step in web performance](https://confoo.ca/en/2024/session/quic-and-http-3-the-next-step-in-web-performance) | [Marcus Bointon](https://marcus.bointon.com/) | [Slides](2024-02-21/Marcus_Bointon_-_HTTP3_and_QUIC.pdf) |
+| [What’s New in Spring](https://confoo.ca/en/2024/session/what-s-new-in-spring) | Spencer Gibb | [slides](2024-02-21/Whats_New_in_Spring_in_2023_24-Spencer_Gibb.pdf) |
 
 # February 22
 
@@ -45,6 +46,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Hacking Kubernetes and protecting yourself against it](https://confoo.ca/en/2024/session/hacking-kubernetes-and-protecting-yourself-against-it) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-22/Bastian%20Hofmann%20-%20Hacking%20Kubernetes.pdf) |
 | [Adopter pleinement GitOps](https://confoo.ca/en/2024/session/adopter-pleinement-gitops) | [Lucien Boix](https://www.linkedin.com/in/lucienboix/) | [Slides](2024-02-22/adopter_pleinement_gitops-lucien-boix.pdf) |
 | [Sustainable Web Development](https://confoo.ca/en/2024/session/sustainable-web-development) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-22/sustainable-web-dev.pdf) |
+| [API Toolbox with Spring](https://confoo.ca/en/2024/session/api-toolbox-with-spring) | Spencer Gibb | [slides](2024-02-22/API_Toolbox_with_Spring-Spencer_Gibb.pdf) |
 | [Pourquoi choisir Elixir en 2024?](https://confoo.ca/en/2024/session/pourquoi-choisir-elixir-en-2024) | Marc-Olivier Fiset | [Slides](2024-02-22/pourquoi-choisir-elixir-en-2024_marc-olivier_fiset.pdf) |
 | [Everything about Symfony 7](https://confoo.ca/fr/2024/session/everything-about-symfony-7) | Nicolas Grekas | [Slides](2024-02-22/Everything_about_Symfony_7-Nicolas_Grekas.pdf) |
 
