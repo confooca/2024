@@ -55,6 +55,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Pourquoi choisir Elixir en 2024?](https://confoo.ca/en/2024/session/pourquoi-choisir-elixir-en-2024) | Marc-Olivier Fiset | [Slides](2024-02-22/pourquoi-choisir-elixir-en-2024_marc-olivier_fiset.pdf) |
 | [Everything about Symfony 7](https://confoo.ca/fr/2024/session/everything-about-symfony-7) | Nicolas Grekas | [Slides](2024-02-22/Everything_about_Symfony_7-Nicolas_Grekas.pdf) |
 | [The road to migrate from legacy to modern stack](https://confoo.ca/en/2024/session/the-road-to-migrate-from-legacy-to-modern-stack) | Ivan Manzanilla | [Slides](2024-02-22/the_road_to_migrate_from_legacy_to_modern_stack-ivan-manzanilla.pdf) |
+| [Navigating Tech Decisions: A Startup Survival Guide](https://confoo.ca/en/2024/session/navigating-tech-decisions-a-startup-survival-guide) | [Tobias Schlitt](https://schlitt.info) | [Slides](2024-02-22/tobias_schlitt_-_navigating_tech_decisions_a_startup_survival_guide.pdf) |
+
 
 # February 23
 
@@ -84,4 +86,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Introduction to OpenTelemetry tracing for developers](https://confoo.ca/en/2024/session/introduction-to-opentelemetry-tracing-for-developers) | [Nicolas Fränkel](https://blog.frankel.ch/) | [Slides](2024-02-23/OpenTelemetry-Nicolas-Frankel.pdf) |
 | [Crafting an AI Mixologist using Semantic Kernel](https://confoo.ca/en/2024/session/crafting-an-ai-mixologist-using-semantic-kernel) | [Ron Dagdag](http://ron.dagdag.net/) | [Slides](2024-02-23/crafting-mixologist-semantic-kernel.pdf) |
 | [Introduction to PHP Extensions](https://confoo.ca/en/2024/session/introduction-to-php-extensions) | [Derick Rethans](https://derickrethans.nl) | [slides](2024-02-23/introduction_to_php_extensions-derick-rethans.pdf) |
+| [Why a slim domain model is superior in web](https://confoo.ca/en/2024/session/why-a-slim-domain-model-is-superior-in-web) | [Tobias Schlitt](https://schlitt.info) | [Slides](2024-02-23/tobias_schlitt_-_why_a_slim_domain_model_is_superior_in_web.pdf) |
 
