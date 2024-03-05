@@ -29,7 +29,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Boosting Web Engagement with Symfony UX](https://confoo.ca/fr/2024/session/boosting-web-engagement-with-symfony-ux) | Nicolas Grekas | [slides](2024-02-21/Boosting_Web_Engagement_with_Symfony_UX-Nicolas_Grekas.pdf) | 
 | [QUIC & HTTP/3 - the next step in web performance](https://confoo.ca/en/2024/session/quic-and-http-3-the-next-step-in-web-performance) | [Marcus Bointon](https://marcus.bointon.com/) | [Slides](2024-02-21/Marcus_Bointon_-_HTTP3_and_QUIC.pdf) |
 | [What’s New in Spring](https://confoo.ca/en/2024/session/what-s-new-in-spring) | Spencer Gibb | [slides](2024-02-21/Whats_New_in_Spring_in_2023_24-Spencer_Gibb.pdf) |
-| [Building Accessible Web Applications ]([https://confoo.ca/en/2024/session/what-s-new-in-spring](https://confoo.ca/en/2024/session/building-accessible-web-applications)) | Rachele DiTullio | [slides](2024-02-21/building_accessible_web_applications-rachele_ditullio.pdf) |
+| [Building Accessible Web Applications ](https://confoo.ca/en/2024/session/what-s-new-in-spring]) | Rachele DiTullio | [slides](2024-02-21/building_accessible_web_applications-rachele_ditullio.pdf) |
 
 
 # February 22
