@@ -35,6 +35,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Wizardry of Prompt Engineering: AI Agents in Javascript](https://confoo.ca/en/2024/session/wizardry-of-prompt-engineering-ai-agents-in-javascript) | [Ron Dagdag](http://ron.dagdag.net/) | [slides](2024-02-21/ai-agents-js.pdf) |
 | [What's New in PHP 8.3](https://confoo.ca/en/2024/session/what-s-new-in-php-8-3) | [Derick Rethans](https://derickrethans.nl) | [slides](2024-02-21/whats_new_in_php_8_3-derick-rethans.pdf) |
 | [I Completed All 8 Advents of Code in One Go: Lessons Learned](https://confoo.ca/en/2024/session/i-completed-all-8-advents-of-code-in-one-go-lessons-learned) | [Teiva Harsanyi](https://teivah.dev) | [slides](2024-02-21/i-completed-all-9-advents-of-code.pdf) |
+| [Does Your API Need a REST? Check Out GraphQL](https://confoo.ca/en/2024/session/does-your-api-need-a-rest-check-out-graphql)                                                     | Dan Vega                                    | [slides](2024-02-21/spring-for-graphql.pdf)                                                                                                                                                                            |
+| [Spring Boot 3 and Beyond!](https://confoo.ca/en/2024/session/spring-boot-3-and-beyond) | Dan Vega | [slides](2024-02-21/spring-boot-3-beyond.pdf)                                                                                                                                                                          |
 
 # February 22
 
