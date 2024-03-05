@@ -57,7 +57,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Everything about Symfony 7](https://confoo.ca/fr/2024/session/everything-about-symfony-7) | Nicolas Grekas | [Slides](2024-02-22/Everything_about_Symfony_7-Nicolas_Grekas.pdf) |
 | [The road to migrate from legacy to modern stack](https://confoo.ca/en/2024/session/the-road-to-migrate-from-legacy-to-modern-stack) | Ivan Manzanilla | [Slides](2024-02-22/the_road_to_migrate_from_legacy_to_modern_stack-ivan-manzanilla.pdf) |
 | [Navigating Tech Decisions: A Startup Survival Guide](https://confoo.ca/en/2024/session/navigating-tech-decisions-a-startup-survival-guide) | [Tobias Schlitt](https://schlitt.info) | [Slides](2024-02-22/tobias_schlitt_-_navigating_tech_decisions_a_startup_survival_guide.pdf) |
-
+| [Jakarta EE 11 - Performance and Developer Productivity](https://confoo.ca/en/2024/session/jakarta-ee-11-performance-and-developer-productivity) | [Ivar Grimstad](https://jakarta.ee/community/developer-advocate/) | [Slides](2024-02-22/jakarta-ee-11-performance-and-developer-productivity_ivar-grimstad.pdf) |
+| [Spring Boot 2 to Spring Boot 3 with Java 21 and Jakarta EE](https://confoo.ca/en/2024/session/spring-boot-2-to-spring-boot-3-with-java-21-and-jakarta-ee) | [Ivar Grimstad](https://jakarta.ee/community/developer-advocate/) | [Slides](2024-02-22/spring-boot-2-to-spring-boot-3-with-java-21-and-jakarta-ee_ivar-grimstad.pdf) |
 
 # February 23
 
