@@ -11,21 +11,21 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 # February 21
 
-
-| Presentation Title                                                                                                                                            | Speaker Name                                | Content |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|---------|
-| [#nullable enable - unlock the power of C# nullability](https://confoo.ca/en/2024/session/nullable-enable-unlock-the-power-of-c-nullability)                  | Maarten Balliauw                            | [slides](2024-02-21/nullability-csharp_maarten-balliauw.pdf) |
-| [The State of WebAssembly](https://confoo.ca/en/2024/session/the-state-of-webassembly)                                                                        | Gerard Gallant                              | [slides](https://github.com/confooca/2024/blob/main/2024-02-21/The_State_of_WebAssembly-Gerard_Gallant.pdf), [code](https://github.com/confooca/2024/blob/main/2024-02-21/The_State_of_WebAssembly-Gerard_Gallant.zip) |
-| [Intro to Pandas](https://confoo.ca/en/2024/session/intro-to-pandas)                                                                                          | Jessie Newman                               | [Kaggle Notebook](https://www.kaggle.com/code/jessienewman/notebooka4f6873f84) |
-| [Cache Me If You Can: Speed Up Your JVM With Project Valhalla](https://confoo.ca/en/2024/session/cache-me-if-you-can-speed-up-your-jvm-with-project-valhalla) | Theresa Mammarella                          | [slides](2024-02-21/Cache_Me_If_You_Can-Theresa_Mammarella.pdf) |
-| [Generative AI and the future of development](https://confoo.ca/en/2024/session/generative-ai-and-the-future-of-development)                                  | Christopher Harrison                        | [slides](2024-02-21/gen-ai-development-Christopher-Harrison.pdf)
-| [Demystifying OWASP Top 10 Mobile Risks](https://confoo.ca/en/2024/session/demystifying-owasp-top-10-mobile-risks)                                            | Lester Botello                              | [slides](2024-02-21/Demystifying-OWASP-Top-10-Mobile-Risks-Lester-Botello.pdf) |
-| [Offline First!](https://confoo.ca/en/2024/session/offline-first)                                                                                             | [Rowdy Rabouw](https://rowdy.codes)         | [slides](2024-02-21/offline_first_rowdy_rabouw.pdf) |
-| [A practical introduction to encryption in PHP](https://confoo.ca/en/2024/session/practical-intro-to-encryption-in-php)                                       | Frank Berger                                | [slides](2024-02-21/a_practical_introduction_to_encryption_in_php-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-intro-to-encryption)|
-| [I Have 100% Coverage. Why Did I Have a Regression?](https://confoo.ca/en/2024/session/i-have-100-coverage-why-did-i-have-a-regression)                       | [Gabriel Fournier](https://gfournier.ca)    |[Slides](2024-02-21/I-Have-100-Coverave-Why-Did-I-Have-a-Regression.pdf) [Demo](https://github.com/carboneater/confoo-2024-mutation-testing)|
-| [Java 21: La version que vous devriez utiliser (LTS)](https://confoo.ca/en/2024/session/java-21-la-version-que-vous-devriez-utiliser-lts)                     | [Henri Tremblay](https://blog.tremblay.pro) | [Slides](2024-02-21/java_21-henri_tremblay.pdf) [Demo](https://github.com/henri-tremblay/java91011beyond) |
-| [Procrastinate! Or at least your app should…](https://confoo.ca/en/2024/session/procrastinate-or-at-least-your-app-should)                                    | Sébastien Ballangé                          | [slides](2024-02-21/Procrastinate_Or_at_least_your_app_should-Sebastien_Ballange.pdf) |
-| [Accélérer le déploiement de modèles de machine learning](https://confoo.ca/en/2024/session/accelerer-le-deploiement-de-modeles-de-machine-learning)          | Amine Saboni                                | [slides](2024-02-21/Accelerer_le_deploiement_de_modeles_de_machine_learning.pdf) |
+| Presentation Title | Speaker Name  | Content |
+|--------------------|---------------|---------|
+| [#nullable enable - unlock the power of C# nullability](https://confoo.ca/en/2024/session/nullable-enable-unlock-the-power-of-c-nullability) | Maarten Balliauw | [slides](2024-02-21/nullability-csharp_maarten-balliauw.pdf) |
+| [The State of WebAssembly](https://confoo.ca/en/2024/session/the-state-of-webassembly) | Gerard Gallant | [slides](https://github.com/confooca/2024/blob/main/2024-02-21/The_State_of_WebAssembly-Gerard_Gallant.pdf), [code](https://github.com/confooca/2024/blob/main/2024-02-21/The_State_of_WebAssembly-Gerard_Gallant.zip) |
+| [Intro to Pandas](https://confoo.ca/en/2024/session/intro-to-pandas) | Jessie Newman | [Kaggle Notebook](https://www.kaggle.com/code/jessienewman/notebooka4f6873f84) |
+| [Cache Me If You Can: Speed Up Your JVM With Project Valhalla](https://confoo.ca/en/2024/session/cache-me-if-you-can-speed-up-your-jvm-with-project-valhalla) | Theresa Mammarella | [slides](2024-02-21/Cache_Me_If_You_Can-Theresa_Mammarella.pdf) |
+| [Generative AI and the future of development](https://confoo.ca/en/2024/session/generative-ai-and-the-future-of-development) | Christopher Harrison | [slides](2024-02-21/gen-ai-development-Christopher-Harrison.pdf)
+| [Demystifying OWASP Top 10 Mobile Risks](https://confoo.ca/en/2024/session/demystifying-owasp-top-10-mobile-risks) | Lester Botello | [slides](2024-02-21/Demystifying-OWASP-Top-10-Mobile-Risks-Lester-Botello.pdf) |
+| [Offline First!](https://confoo.ca/en/2024/session/offline-first) | [Rowdy Rabouw](https://rowdy.codes) | [slides](2024-02-21/offline_first_rowdy_rabouw.pdf) |
+| [A practical introduction to encryption in PHP](https://confoo.ca/en/2024/session/practical-intro-to-encryption-in-php) | Frank Berger | [slides](2024-02-21/a_practical_introduction_to_encryption_in_php-frank_berger.pdf) [examples](https://github.com/codeseveneleven/talk-intro-to-encryption)|
+| [I Have 100% Coverage. Why Did I Have a Regression?](https://confoo.ca/en/2024/session/i-have-100-coverage-why-did-i-have-a-regression)|[Gabriel Fournier](https://gfournier.ca)|[Slides](2024-02-21/I-Have-100-Coverave-Why-Did-I-Have-a-Regression.pdf) [Demo](https://github.com/carboneater/confoo-2024-mutation-testing)|
+| [Java 21: La version que vous devriez utiliser (LTS)](https://confoo.ca/en/2024/session/java-21-la-version-que-vous-devriez-utiliser-lts)| [Henri Tremblay](https://blog.tremblay.pro) | [Slides](2024-02-21/java_21-henri_tremblay.pdf) [Demo](https://github.com/henri-tremblay/java91011beyond) |
+| [Procrastinate! Or at least your app should…](https://confoo.ca/en/2024/session/procrastinate-or-at-least-your-app-should) | Sébastien Ballangé | [slides](2024-02-21/Procrastinate_Or_at_least_your_app_should-Sebastien_Ballange.pdf) |
+| [Going crazy with caching: Caching pages of logged in users](https://confoo.ca/en/2024/session/going-crazy-with-caching-caching-pages-of-logged-in-users) | [David Buchmann](https://davidbu.ch/mann/) | [slides](2024-02-21/varnish-advanced_David-Buchmann.html) |
+| [Accélérer le déploiement de modèles de machine learning](https://confoo.ca/en/2024/session/accelerer-le-deploiement-de-modeles-de-machine-learning)      
 
 # February 22
 
@@ -43,6 +43,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Hacking Kubernetes and protecting yourself against it](https://confoo.ca/en/2024/session/hacking-kubernetes-and-protecting-yourself-against-it) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-22/Bastian%20Hofmann%20-%20Hacking%20Kubernetes.pdf) |
 | [Adopter pleinement GitOps](https://confoo.ca/en/2024/session/adopter-pleinement-gitops) | [Lucien Boix](https://www.linkedin.com/in/lucienboix/) | [Slides](2024-02-22/adopter_pleinement_gitops-lucien-boix.pdf) |
 | [Sustainable Web Development](https://confoo.ca/en/2024/session/sustainable-web-development) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-22/sustainable-web-dev.pdf) |
+| [Pourquoi choisir Elixir en 2024?](https://confoo.ca/en/2024/session/pourquoi-choisir-elixir-en-2024) | Marc-Olivier Fiset | [Slides](2024-02-22/pourquoi-choisir-elixir-en-2024_marc-olivier_fiset.pdf) |
 
 # February 23
 
@@ -64,3 +65,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Building Design Systems with Web Components](https://confoo.ca/en/2024/session/building-design-systems-with-web-components) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-23/building-design-systems-with-web-components.pdf) |
 | [Le monolithe est mort, vive le monolithe !](https://confoo.ca/en/2024/session/le-monolithe-est-mort-vive-le-monolithe) | Sébastien Ballangé | [slides](2024-02-23/Le_monolithe_est_mort_vive_le_monolithe-Sebastien_Ballange.pdf) |
 | [Threat Modeling Capabilities](https://confoo.ca/fr/2024/session/threat-modeling-organizational-planning) | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [Slides](https://docs.google.com/presentation/d/1FBirym_2H3dZjBR40TDgGhmjqVUUcGFZX2u70uZDuas/preview) |
+| [Decoupling an application with Symfony Messenger](https://confoo.ca/en/2024/session/decoupling-an-application-with-symfony-messenger) | [David Buchmann](https://davidbu.ch/mann/) | [Slides](2024-02-23/Symfony-Messenger_David-Buchmann.html) [demo](https://github.com/dbu/messenger-demo/) |
