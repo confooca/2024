@@ -60,6 +60,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Jakarta EE 11 - Performance and Developer Productivity](https://confoo.ca/en/2024/session/jakarta-ee-11-performance-and-developer-productivity) | [Ivar Grimstad](https://jakarta.ee/community/developer-advocate/) | [Slides](2024-02-22/jakarta-ee-11-performance-and-developer-productivity_ivar-grimstad.pdf) |
 | [Spring Boot 2 to Spring Boot 3 with Java 21 and Jakarta EE](https://confoo.ca/en/2024/session/spring-boot-2-to-spring-boot-3-with-java-21-and-jakarta-ee) | [Ivar Grimstad](https://jakarta.ee/community/developer-advocate/) | [Slides](2024-02-22/spring-boot-2-to-spring-boot-3-with-java-21-and-jakarta-ee_ivar-grimstad.pdf) |
 | [I deploy on Fridays (and maybe you should too)](https://confoo.ca/en/2024/session/i-deploy-on-fridays-and-maybe-you-should-too-1) | [Michiel Rook](https://www.michielrook.nl) | [Slides](2024-02-22/i_deploy_on_fridays-michiel_rook.pdf) | 
+| [Single Page Applications vs. Cross-Site Scripting](https://confoo.ca/en/2024/session/single-page-applications-vs-cross-site-scripting) | [Christian Wenz](https://christianwenz.de) | [Slides](2024-02-22/single_page_applications_vs_cross_site_scripting-christian_wenz) |
 
 
 # February 23
@@ -92,3 +93,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Introduction to PHP Extensions](https://confoo.ca/en/2024/session/introduction-to-php-extensions) | [Derick Rethans](https://derickrethans.nl) | [slides](2024-02-23/introduction_to_php_extensions-derick-rethans.pdf) |
 | [Why a slim domain model is superior in web](https://confoo.ca/en/2024/session/why-a-slim-domain-model-is-superior-in-web) | [Tobias Schlitt](https://schlitt.info) | [Slides](2024-02-23/tobias_schlitt_-_why_a_slim_domain_model_is_superior_in_web.pdf) |
 | [4 Reliability Anti-Patterns](https://confoo.ca/en/2024/session/5-reliability-anti-patterns) | [Teiva Harsanyi](https://teivah.dev) | [slides](2024-02-23/4-reliability-anti-patterns.pdf) |
+| [Top ASP.NET Core 8 & Blazor 8 Features](https://confoo.ca/en/2024/session/top-asp-net-core-8-blazor-8-features) | [Christian Wenz](https://christianwenz.de) | [slides](2024-02-23/top_asp_net_core_8_blazor_8_features-christian_wenz.pdf) |
+| [How to mess up JWT's - a practitioner's guide](https://confoo.ca/en/2024/session/how-to-mess-up-jwt-s-a-practitioner-s-guide) | [Christian Wenz](https://christianwenz.de) | [slides](2024-02-23/how_to_mess_up_jwts-christian_wenz.pdf) |
