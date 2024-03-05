@@ -25,7 +25,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Java 21: La version que vous devriez utiliser (LTS)](https://confoo.ca/en/2024/session/java-21-la-version-que-vous-devriez-utiliser-lts)| [Henri Tremblay](https://blog.tremblay.pro) | [Slides](2024-02-21/java_21-henri_tremblay.pdf) [Demo](https://github.com/henri-tremblay/java91011beyond) |
 | [Procrastinate! Or at least your app should…](https://confoo.ca/en/2024/session/procrastinate-or-at-least-your-app-should) | Sébastien Ballangé | [slides](2024-02-21/Procrastinate_Or_at_least_your_app_should-Sebastien_Ballange.pdf) |
 | [Going crazy with caching: Caching pages of logged in users](https://confoo.ca/en/2024/session/going-crazy-with-caching-caching-pages-of-logged-in-users) | [David Buchmann](https://davidbu.ch/mann/) | [slides](2024-02-21/varnish-advanced_David-Buchmann.html) |
-| [Accélérer le déploiement de modèles de machine learning](https://confoo.ca/en/2024/session/accelerer-le-deploiement-de-modeles-de-machine-learning)      
+ [Accélérer le déploiement de modèles de machine learning](https://confoo.ca/en/2024/session/accelerer-le-deploiement-de-modeles-de-machine-learning) | Amine Saboni | [Slides](2024-02-21/Accelerer_le_deploiement_de_modeles_de_machine_learning-amine_saboni.pdf)|
+ 
 
 # February 22
 
