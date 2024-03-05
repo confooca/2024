@@ -74,5 +74,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Threat Modeling Capabilities](https://confoo.ca/fr/2024/session/threat-modeling-organizational-planning) | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [Slides](https://docs.google.com/presentation/d/1FBirym_2H3dZjBR40TDgGhmjqVUUcGFZX2u70uZDuas/preview) |
 | [Techie Talk – Better English for technical people](https://confoo.ca/en/2024/session/techie-talk-better-english-in-technical-reports) | [Marcus Bointon](https://marcus.bointon.com/) | [Slides in PDF](2024-02-23/Marcus_Bointon–Techie_Talk_-_Better_English_for_technical_people.pdf) |
 | [Decoupling an application with Symfony Messenger](https://confoo.ca/en/2024/session/decoupling-an-application-with-symfony-messenger) | [David Buchmann](https://davidbu.ch/mann/) | [Slides](2024-02-23/Symfony-Messenger_David-Buchmann.html) [demo](https://github.com/dbu/messenger-demo/) |
-| [Structuring Accessible Forms]([https://confoo.ca/en/2024/session/le-monolithe-est-mort-vive-le-monolithe](https://confoo.ca/en/2024/session/structuring-accessible-forms)) | Rachele DiTullio | [slides](
-2024-02-23/structuring_accessible_forms-rachele_ditulllio.pdf) |
+| [Structuring Accessible Forms](https://confoo.ca/en/2024/session/le-monolithe-est-mort-vive-le-monolithe) | Rachele DiTullio | [slides](2024-02-23/structuring_accessible_forms-rachele_ditulllio.pdf) |
