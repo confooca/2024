@@ -51,6 +51,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [API Toolbox with Spring](https://confoo.ca/en/2024/session/api-toolbox-with-spring) | Spencer Gibb | [slides](2024-02-22/API_Toolbox_with_Spring-Spencer_Gibb.pdf) |
 | [Pourquoi choisir Elixir en 2024?](https://confoo.ca/en/2024/session/pourquoi-choisir-elixir-en-2024) | Marc-Olivier Fiset | [Slides](2024-02-22/pourquoi-choisir-elixir-en-2024_marc-olivier_fiset.pdf) |
 | [Everything about Symfony 7](https://confoo.ca/fr/2024/session/everything-about-symfony-7) | Nicolas Grekas | [Slides](2024-02-22/Everything_about_Symfony_7-Nicolas_Grekas.pdf) |
+| [The road to migrate from legacy to modern stack](https://confoo.ca/en/2024/session/the-road-to-migrate-from-legacy-to-modern-stack) | Ivan Manzanilla | [Slides](2024-02-22/the_road_to_migrate_from_legacy_to_modern_stack-ivan-manzanilla.pdf) |
 
 # February 23
 
