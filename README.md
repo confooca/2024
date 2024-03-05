@@ -29,6 +29,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Boosting Web Engagement with Symfony UX](https://confoo.ca/fr/2024/session/boosting-web-engagement-with-symfony-ux) | Nicolas Grekas | [slides](2024-02-21/Boosting_Web_Engagement_with_Symfony_UX-Nicolas_Grekas.pdf) | 
 | [QUIC & HTTP/3 - the next step in web performance](https://confoo.ca/en/2024/session/quic-and-http-3-the-next-step-in-web-performance) | [Marcus Bointon](https://marcus.bointon.com/) | [Slides](2024-02-21/Marcus_Bointon_-_HTTP3_and_QUIC.pdf) |
 | [What’s New in Spring](https://confoo.ca/en/2024/session/what-s-new-in-spring) | Spencer Gibb | [slides](2024-02-21/Whats_New_in_Spring_in_2023_24-Spencer_Gibb.pdf) |
+| [Building Accessible Web Applications ]([https://confoo.ca/en/2024/session/what-s-new-in-spring](https://confoo.ca/en/2024/session/building-accessible-web-applications)) | Rachele DiTullio | [slides](2024-02-21/building_accessible_web_applications-rachele_ditullio.pdf) |
+
 
 # February 22
 
@@ -72,3 +74,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Threat Modeling Capabilities](https://confoo.ca/fr/2024/session/threat-modeling-organizational-planning) | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [Slides](https://docs.google.com/presentation/d/1FBirym_2H3dZjBR40TDgGhmjqVUUcGFZX2u70uZDuas/preview) |
 | [Techie Talk – Better English for technical people](https://confoo.ca/en/2024/session/techie-talk-better-english-in-technical-reports) | [Marcus Bointon](https://marcus.bointon.com/) | [Slides in PDF](2024-02-23/Marcus_Bointon–Techie_Talk_-_Better_English_for_technical_people.pdf) |
 | [Decoupling an application with Symfony Messenger](https://confoo.ca/en/2024/session/decoupling-an-application-with-symfony-messenger) | [David Buchmann](https://davidbu.ch/mann/) | [Slides](2024-02-23/Symfony-Messenger_David-Buchmann.html) [demo](https://github.com/dbu/messenger-demo/) |
+| [Structuring Accessible Forms]([https://confoo.ca/en/2024/session/le-monolithe-est-mort-vive-le-monolithe](https://confoo.ca/en/2024/session/structuring-accessible-forms)) | Rachele DiTullio | [slides](
+2024-02-23/structuring_accessible_forms-rachele_ditulllio.pdf) |
