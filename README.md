@@ -43,6 +43,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Hacking Kubernetes and protecting yourself against it](https://confoo.ca/en/2024/session/hacking-kubernetes-and-protecting-yourself-against-it) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-22/Bastian%20Hofmann%20-%20Hacking%20Kubernetes.pdf) |
 | [Adopter pleinement GitOps](https://confoo.ca/en/2024/session/adopter-pleinement-gitops) | [Lucien Boix](https://www.linkedin.com/in/lucienboix/) | [Slides](2024-02-22/adopter_pleinement_gitops-lucien-boix.pdf) |
 | [Sustainable Web Development](https://confoo.ca/en/2024/session/sustainable-web-development) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-22/sustainable-web-dev.pdf) |
+| [Pourquoi choisir Elixir en 2024?](https://confoo.ca/en/2024/session/pourquoi-choisir-elixir-en-2024) | Marc-Olivier Fiset | [Slides](2024-02-22/pourquoi-choisir-elixir-en-2024_marc-olivier_fiset.pdf) |
 
 # February 23
 
