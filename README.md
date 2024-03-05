@@ -32,6 +32,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Building Accessible Web Applications ](https://confoo.ca/en/2024/session/what-s-new-in-spring]) | Rachele DiTullio | [slides](2024-02-21/building_accessible_web_applications-rachele_ditullio.pdf) |
 | [Kafka's Reign Is Over. Apache Pulsar's Rise.](https://confoo.ca/en/2024/session/kafka-s-reign-is-over-apache-pulsar-s-rise) | Cory Darby | [Slides](2024-02-21/kafka_pulsar.pdf) |
 | [Wizardry of Prompt Engineering: AI Agents in Javascript](https://confoo.ca/en/2024/session/wizardry-of-prompt-engineering-ai-agents-in-javascript) | [Ron Dagdag](http://ron.dagdag.net/) | [slides](2024-02-21/ai-agents-js.pdf) |
+| [What's New in PHP 8.3](https://confoo.ca/en/2024/session/what-s-new-in-php-8-3) | [Derick Rethans](https://derickrethans.nl) | [slides](2024-02-21/whats_new_in_php_8_3-derick-rethans.pdf) |
 
 # February 22
 
@@ -81,3 +82,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Chopping the Monolith](https://confoo.ca/en/2024/session/chopping-the-monolith) | [Nicolas Fränkel](https://blog.frankel.ch/) | [Slides](2024-02-23/Chopping-the-monolith-Nicolas-Frankel.pdf) |
 | [Introduction to OpenTelemetry tracing for developers](https://confoo.ca/en/2024/session/introduction-to-opentelemetry-tracing-for-developers) | [Nicolas Fränkel](https://blog.frankel.ch/) | [Slides](2024-02-23/OpenTelemetry-Nicolas-Frankel.pdf) |
 | [Crafting an AI Mixologist using Semantic Kernel](https://confoo.ca/en/2024/session/crafting-an-ai-mixologist-using-semantic-kernel) | [Ron Dagdag](http://ron.dagdag.net/) | [Slides](2024-02-23/crafting-mixologist-semantic-kernel.pdf) |
+| [Introduction to PHP Extensions](https://confoo.ca/en/2024/session/introduction-to-php-extensions) | [Derick Rethans](https://derickrethans.nl) | [slides](2024-02-23/introduction_to_php_extensions-derick-rethans.pdf) |
+
