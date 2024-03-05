@@ -30,7 +30,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [QUIC & HTTP/3 - the next step in web performance](https://confoo.ca/en/2024/session/quic-and-http-3-the-next-step-in-web-performance) | [Marcus Bointon](https://marcus.bointon.com/) | [Slides](2024-02-21/Marcus_Bointon_-_HTTP3_and_QUIC.pdf) |
 | [What’s New in Spring](https://confoo.ca/en/2024/session/what-s-new-in-spring) | Spencer Gibb | [slides](2024-02-21/Whats_New_in_Spring_in_2023_24-Spencer_Gibb.pdf) |
 | [Building Accessible Web Applications ](https://confoo.ca/en/2024/session/what-s-new-in-spring]) | Rachele DiTullio | [slides](2024-02-21/building_accessible_web_applications-rachele_ditullio.pdf) |
-
+| [Kafka's Reign Is Over. Apache Pulsar's Rise.](https://confoo.ca/en/2024/session/kafka-s-reign-is-over-apache-pulsar-s-rise) | Cory Darby | [Slides](2024-02-21/kafka_pulsar.pdf) |
 
 # February 22
 
@@ -75,3 +75,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Techie Talk – Better English for technical people](https://confoo.ca/en/2024/session/techie-talk-better-english-in-technical-reports) | [Marcus Bointon](https://marcus.bointon.com/) | [Slides in PDF](2024-02-23/Marcus_Bointon–Techie_Talk_-_Better_English_for_technical_people.pdf) |
 | [Decoupling an application with Symfony Messenger](https://confoo.ca/en/2024/session/decoupling-an-application-with-symfony-messenger) | [David Buchmann](https://davidbu.ch/mann/) | [Slides](2024-02-23/Symfony-Messenger_David-Buchmann.html) [demo](https://github.com/dbu/messenger-demo/) |
 | [Structuring Accessible Forms](https://confoo.ca/en/2024/session/le-monolithe-est-mort-vive-le-monolithe) | Rachele DiTullio | [slides](2024-02-23/structuring_accessible_forms-rachele_ditulllio.pdf) |
+| [Terraform is dead. Long live Pulumi.](https://confoo.ca/en/2024/session/terraform-is-dead-long-live-pulumi) | Cory Darby | [Slides](2024-02-23/terraform_pulumi.pdf) |
