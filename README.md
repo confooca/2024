@@ -77,3 +77,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Decoupling an application with Symfony Messenger](https://confoo.ca/en/2024/session/decoupling-an-application-with-symfony-messenger) | [David Buchmann](https://davidbu.ch/mann/) | [Slides](2024-02-23/Symfony-Messenger_David-Buchmann.html) [demo](https://github.com/dbu/messenger-demo/) |
 | [Structuring Accessible Forms](https://confoo.ca/en/2024/session/le-monolithe-est-mort-vive-le-monolithe) | Rachele DiTullio | [slides](2024-02-23/structuring_accessible_forms-rachele_ditulllio.pdf) |
 | [Terraform is dead. Long live Pulumi.](https://confoo.ca/en/2024/session/terraform-is-dead-long-live-pulumi) | Cory Darby | [Slides](2024-02-23/terraform_pulumi.pdf) |
+| [Chopping the Monolith](https://confoo.ca/en/2024/session/chopping-the-monolith) | [Nicolas Fränkel](https://blog.frankel.ch/) | [Slides](2024-02-23/Chopping-the-monolith-Nicolas-Frankel.pdf) |
+| [Introduction to OpenTelemetry tracing for developers](https://confoo.ca/en/2024/session/introduction-to-opentelemetry-tracing-for-developers) | [Nicolas Fränkel](https://blog.frankel.ch/) | [Slides](2024-02-23/OpenTelemetry-Nicolas-Frankel.pdf) |
