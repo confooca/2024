@@ -61,7 +61,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Spring Boot 2 to Spring Boot 3 with Java 21 and Jakarta EE](https://confoo.ca/en/2024/session/spring-boot-2-to-spring-boot-3-with-java-21-and-jakarta-ee) | [Ivar Grimstad](https://jakarta.ee/community/developer-advocate/) | [Slides](2024-02-22/spring-boot-2-to-spring-boot-3-with-java-21-and-jakarta-ee_ivar-grimstad.pdf) |
 | [I deploy on Fridays (and maybe you should too)](https://confoo.ca/en/2024/session/i-deploy-on-fridays-and-maybe-you-should-too-1) | [Michiel Rook](https://www.michielrook.nl) | [Slides](2024-02-22/i_deploy_on_fridays-michiel_rook.pdf) | 
 | [Single Page Applications vs. Cross-Site Scripting](https://confoo.ca/en/2024/session/single-page-applications-vs-cross-site-scripting) | [Christian Wenz](https://christianwenz.de) | [Slides](2024-02-22/single_page_applications_vs_cross_site_scripting-christian_wenz.pdf) |
-| [PostgreSQL for MySQL DBAs](https://confoo.ca/en/2024/session/postgresql-for-mysql-dbas) | [Dave Stokes](http://elephantdolphin.blogger.com/) | [Slides]([2024-02-22/David Stokes - PostgreSQL For MySQL DBAs.pptx.pdf](2024-02-22/David%20Stokes%20-%20PostgreSQL%20For%20MySQL%20DBAs.pptx.pdf)) |
+| [PostgreSQL for MySQL DBAs](https://confoo.ca/en/2024/session/postgresql-for-mysql-dbas) | [Dave Stokes](http://elephantdolphin.blogger.com/) | [Slides](2024-02-22/David%20Stokes%20-%20PostgreSQL%20For%20MySQL%20DBAs.pptx.pdf)) |
 
 
 # February 23
