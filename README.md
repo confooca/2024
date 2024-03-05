@@ -96,4 +96,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [4 Reliability Anti-Patterns](https://confoo.ca/en/2024/session/5-reliability-anti-patterns) | [Teiva Harsanyi](https://teivah.dev) | [slides](2024-02-23/4-reliability-anti-patterns.pdf) |
 | [Top ASP.NET Core 8 & Blazor 8 Features](https://confoo.ca/en/2024/session/top-asp-net-core-8-blazor-8-features) | [Christian Wenz](https://christianwenz.de) | [slides](2024-02-23/top_asp_net_core_8_blazor_8_features-christian_wenz.pdf) |
 | [How to mess up JWT's - a practitioner's guide](https://confoo.ca/en/2024/session/how-to-mess-up-jwt-s-a-practitioner-s-guide) | [Christian Wenz](https://christianwenz.de) | [slides](2024-02-23/how_to_mess_up_jwts-christian_wenz.pdf) |
-| [A Survey of MySQL Indexes](https://confoo.ca/en/2024/session/a-survey-of-mysql-indexes) | [Dave Stokes ](http://elephantdolphin.blogger.com/) | [slides](2024-02-23/David Stokes - A Survey of MySQL Indexes.pdf) |
+| [A Survey of MySQL Indexes](https://confoo.ca/en/2024/session/a-survey-of-mysql-indexes) | [Dave Stokes ](http://elephantdolphin.blogger.com/) | [slides](2024-02-23%2FDavid+Stokes+-+A+Survey+of+MySQL+Indexes.pdf) |
