@@ -1,3 +1,5 @@
+# Confoo 2024
+
 [ConFoo 2024](https://www.confoo.ca/en/2024) is a multi-technology conference for developers that happened from February 21-23, 2024 in Montreal.
 
 - 170 presentations by popular international speakers.
@@ -8,8 +10,7 @@ Below you will find the slides of most presentations given at ConFoo 2024.
 
 Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
-
-# February 21
+## February 21
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
@@ -27,10 +28,10 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Procrastinate! Or at least your app should…](https://confoo.ca/en/2024/session/procrastinate-or-at-least-your-app-should) | Sébastien Ballangé | [slides](2024-02-21/Procrastinate_Or_at_least_your_app_should-Sebastien_Ballange.pdf) |
 | [Going crazy with caching: Caching pages of logged in users](https://confoo.ca/en/2024/session/going-crazy-with-caching-caching-pages-of-logged-in-users) | [David Buchmann](https://davidbu.ch/mann/) | [slides](2024-02-21/varnish-advanced_David-Buchmann.html) |
 | [Accélérer le déploiement de modèles de machine learning](https://confoo.ca/en/2024/session/accelerer-le-deploiement-de-modeles-de-machine-learning) | Amine Saboni | [Slides](2024-02-21/Accelerer_le_deploiement_de_modeles_de_machine_learning-amine_saboni.pdf)|
-| [Boosting Web Engagement with Symfony UX](https://confoo.ca/fr/2024/session/boosting-web-engagement-with-symfony-ux) | Nicolas Grekas | [slides](2024-02-21/Boosting_Web_Engagement_with_Symfony_UX-Nicolas_Grekas.pdf) | 
+| [Boosting Web Engagement with Symfony UX](https://confoo.ca/fr/2024/session/boosting-web-engagement-with-symfony-ux) | Nicolas Grekas | [slides](2024-02-21/Boosting_Web_Engagement_with_Symfony_UX-Nicolas_Grekas.pdf) |
 | [QUIC & HTTP/3 - the next step in web performance](https://confoo.ca/en/2024/session/quic-and-http-3-the-next-step-in-web-performance) | [Marcus Bointon](https://marcus.bointon.com/) | [Slides](2024-02-21/Marcus_Bointon_-_HTTP3_and_QUIC.pdf) |
 | [What’s New in Spring](https://confoo.ca/en/2024/session/what-s-new-in-spring) | Spencer Gibb | [slides](2024-02-21/Whats_New_in_Spring_in_2023_24-Spencer_Gibb.pdf) |
-| [Building Accessible Web Applications ](https://confoo.ca/en/2024/session/what-s-new-in-spring]) | Rachele DiTullio | [slides](2024-02-21/building_accessible_web_applications-rachele_ditullio.pdf) |
+| [Building Accessible Web Applications](https://confoo.ca/en/2024/session/what-s-new-in-spring]) | Rachele DiTullio | [slides](2024-02-21/building_accessible_web_applications-rachele_ditullio.pdf) |
 | [Kafka's Reign Is Over. Apache Pulsar's Rise.](https://confoo.ca/en/2024/session/kafka-s-reign-is-over-apache-pulsar-s-rise) | Cory Darby | [Slides](2024-02-21/kafka_pulsar.pdf) |
 | [Wizardry of Prompt Engineering: AI Agents in Javascript](https://confoo.ca/en/2024/session/wizardry-of-prompt-engineering-ai-agents-in-javascript) | [Ron Dagdag](http://ron.dagdag.net/) | [slides](2024-02-21/ai-agents-js.pdf) |
 | [What's New in PHP 8.3](https://confoo.ca/en/2024/session/what-s-new-in-php-8-3) | [Derick Rethans](https://derickrethans.nl) | [slides](2024-02-21/whats_new_in_php_8_3-derick-rethans.pdf) |
@@ -38,12 +39,12 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Does Your API Need a REST? Check Out GraphQL](https://confoo.ca/en/2024/session/does-your-api-need-a-rest-check-out-graphql)                                                     | Dan Vega                                    | [slides](2024-02-21/spring-for-graphql.pdf)                                                                                                                                                                            |
 | [Spring Boot 3 and Beyond!](https://confoo.ca/en/2024/session/spring-boot-3-and-beyond) | Dan Vega | [slides](2024-02-21/spring-boot-3-beyond.pdf)                                                                                                                                                                          |
 
-# February 22
+## February 22
 
 | Presentation Title                                                                                                                               | Speaker Name  | Content |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------|
 | [Amazing Algorithms for Solving Problems in Software](https://confoo.ca/en/2024/session/amazing-algorithms-for-solving-problems-in-software)     | [Barry S. Stahl](https://www.cognitiveinheritance.com) | [Slides-PDF](./2024-02-22/Amazing_Algorithms-Barry_S_Stahl.pdf), [Slides-Web](https://amazingalgorithms.azurewebsites.net/), [Demos](https://github.com/bsstahl/AIDemos/wiki/VotingAmoebas) |
-| [Expecting The Best: How to Manage Unreliable Developers]()                                                                                      | Bryce Embry | [Slides in PDF](2024-02-22/expecting_the_best_how_to_manage_unreliable_developers-bryce_embry.pdf) |
+| [Expecting The Best: How to Manage Unreliable Developers](https://confoo.ca/en/2024/session/expecting-the-best-how-to-manage-unreliable-developers)                                                                                      | Bryce Embry | [Slides in PDF](2024-02-22/expecting_the_best_how_to_manage_unreliable_developers-bryce_embry.pdf) |
 | [Debugging .NET - Tips and tricks](https://confoo.ca/en/2024/session/expecting-the-best-how-to-manage-unreliable-developers)                     | Maarten Balliauw | live coding from scratch |
 | [Can your Software travel in Time?](https://confoo.ca/en/2024/session/can-your-software-travel-in-time)                                          | [Arne Blankerts](https://thephp.cc/company/consultants/arne-blankerts) | [PDF](2024-02-22/Can-your-Software-travel-in-Time-Arne-Blankerts.pdf) |
 | [Onboarding : De zéro à héro](https://confoo.ca/en/2024/session/onboarding-de-zero-a-heros)                                                      | Alexia Proulx | [Slides](2024-02-22/onboarding_de_zero_a_hero-alexia_proulx.pdf) |
@@ -61,13 +62,12 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Navigating Tech Decisions: A Startup Survival Guide](https://confoo.ca/en/2024/session/navigating-tech-decisions-a-startup-survival-guide) | [Tobias Schlitt](https://schlitt.info) | [Slides](2024-02-22/tobias_schlitt_-_navigating_tech_decisions_a_startup_survival_guide.pdf) |
 | [Jakarta EE 11 - Performance and Developer Productivity](https://confoo.ca/en/2024/session/jakarta-ee-11-performance-and-developer-productivity) | [Ivar Grimstad](https://jakarta.ee/community/developer-advocate/) | [Slides](2024-02-22/jakarta-ee-11-performance-and-developer-productivity_ivar-grimstad.pdf) |
 | [Spring Boot 2 to Spring Boot 3 with Java 21 and Jakarta EE](https://confoo.ca/en/2024/session/spring-boot-2-to-spring-boot-3-with-java-21-and-jakarta-ee) | [Ivar Grimstad](https://jakarta.ee/community/developer-advocate/) | [Slides](2024-02-22/spring-boot-2-to-spring-boot-3-with-java-21-and-jakarta-ee_ivar-grimstad.pdf) |
-| [I deploy on Fridays (and maybe you should too)](https://confoo.ca/en/2024/session/i-deploy-on-fridays-and-maybe-you-should-too-1) | [Michiel Rook](https://www.michielrook.nl) | [Slides](2024-02-22/i_deploy_on_fridays-michiel_rook.pdf) | 
+| [I deploy on Fridays (and maybe you should too)](https://confoo.ca/en/2024/session/i-deploy-on-fridays-and-maybe-you-should-too-1) | [Michiel Rook](https://www.michielrook.nl) | [Slides](2024-02-22/i_deploy_on_fridays-michiel_rook.pdf) |
 | [Single Page Applications vs. Cross-Site Scripting](https://confoo.ca/en/2024/session/single-page-applications-vs-cross-site-scripting) | [Christian Wenz](https://christianwenz.de) | [Slides](2024-02-22/single_page_applications_vs_cross_site_scripting-christian_wenz.pdf) |
 | [PostgreSQL for MySQL DBAs](https://confoo.ca/en/2024/session/postgresql-for-mysql-dbas) | [Dave Stokes](http://elephantdolphin.blogger.com/) | [Slides](2024-02-22/David%20Stokes%20-%20PostgreSQL%20For%20MySQL%20DBAs.pptx.pdf) |
 | [Retrieval Augmented Generation with LangChain and OpenAI](https://confoo.ca/en/2024/session/retrieval-augmented-generation-with-langchain-and-openai) | Shao Hang He  | [Slides](2024-02-22/Retrieval%20Augmented%20Generation%20with%20LangChain%20and%20OpenAI.pdf) |
 
-
-# February 23
+## February 23
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
@@ -99,4 +99,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [4 Reliability Anti-Patterns](https://confoo.ca/en/2024/session/5-reliability-anti-patterns) | [Teiva Harsanyi](https://teivah.dev) | [slides](2024-02-23/4-reliability-anti-patterns.pdf) |
 | [Top ASP.NET Core 8 & Blazor 8 Features](https://confoo.ca/en/2024/session/top-asp-net-core-8-blazor-8-features) | [Christian Wenz](https://christianwenz.de) | [slides](2024-02-23/top_asp_net_core_8_blazor_8_features-christian_wenz.pdf) |
 | [How to mess up JWT's - a practitioner's guide](https://confoo.ca/en/2024/session/how-to-mess-up-jwt-s-a-practitioner-s-guide) | [Christian Wenz](https://christianwenz.de) | [slides](2024-02-23/how_to_mess_up_jwts-christian_wenz.pdf) |
-| [A Survey of MySQL Indexes](https://confoo.ca/en/2024/session/a-survey-of-mysql-indexes) | [Dave Stokes ](http://elephantdolphin.blogger.com/) | [Slides](2024-02-23/David%20Stokes%20-%20A%20Survey%20of%20MySQL%20Indexes.pdf) |
+| [A Survey of MySQL Indexes](https://confoo.ca/en/2024/session/a-survey-of-mysql-indexes) | [Dave Stokes](http://elephantdolphin.blogger.com/) | [Slides](2024-02-23/David%20Stokes%20-%20A%20Survey%20of%20MySQL%20Indexes.pdf) |
