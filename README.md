@@ -65,6 +65,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Single Page Applications vs. Cross-Site Scripting](https://confoo.ca/en/2024/session/single-page-applications-vs-cross-site-scripting) | [Christian Wenz](https://christianwenz.de) | [Slides](2024-02-22/single_page_applications_vs_cross_site_scripting-christian_wenz.pdf) |
 | [PostgreSQL for MySQL DBAs](https://confoo.ca/en/2024/session/postgresql-for-mysql-dbas) | [Dave Stokes](http://elephantdolphin.blogger.com/) | [Slides](2024-02-22/David%20Stokes%20-%20PostgreSQL%20For%20MySQL%20DBAs.pptx.pdf) |
 | [Retrieval Augmented Generation with LangChain and OpenAI](https://confoo.ca/en/2024/session/retrieval-augmented-generation-with-langchain-and-openai) | Shao Hang He  | [Slides](2024-02-22/Retrieval%20Augmented%20Generation%20with%20LangChain%20and%20OpenAI.pdf) |
+| [Git Shit Done, the GitOps Way](https://confoo.ca/en/2024/session/git-shit-done-the-gitops-way) | [Frédéric Harper](https://fred.dev) | [Slides](2024-02-22/git-shit-done-the-gitops-way-confoo-2024.pdf) |
 
 
 # February 23
@@ -100,3 +101,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Top ASP.NET Core 8 & Blazor 8 Features](https://confoo.ca/en/2024/session/top-asp-net-core-8-blazor-8-features) | [Christian Wenz](https://christianwenz.de) | [slides](2024-02-23/top_asp_net_core_8_blazor_8_features-christian_wenz.pdf) |
 | [How to mess up JWT's - a practitioner's guide](https://confoo.ca/en/2024/session/how-to-mess-up-jwt-s-a-practitioner-s-guide) | [Christian Wenz](https://christianwenz.de) | [slides](2024-02-23/how_to_mess_up_jwts-christian_wenz.pdf) |
 | [A Survey of MySQL Indexes](https://confoo.ca/en/2024/session/a-survey-of-mysql-indexes) | [Dave Stokes ](http://elephantdolphin.blogger.com/) | [Slides](2024-02-23/David%20Stokes%20-%20A%20Survey%20of%20MySQL%20Indexes.pdf) |
+| [Bring your Kubernetes game to the next level](https://confoo.ca/en/2024/session/bring-your-kubernetes-game-to-the-next-level) | [Frédéric Harper](https://fred.dev) | [Slides](2024-02-23/bring-your-kubernetes-game-to-the-next-level-confoo-2024.pdf) |
