@@ -25,6 +25,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [I Have 100% Coverage. Why Did I Have a Regression?](https://confoo.ca/en/2024/session/i-have-100-coverage-why-did-i-have-a-regression)|[Gabriel Fournier](https://gfournier.ca)|[Slides](2024-02-21/I-Have-100-Coverave-Why-Did-I-Have-a-Regression.pdf) [Demo](https://github.com/carboneater/confoo-2024-mutation-testing)|
 | [Java 21: La version que vous devriez utiliser (LTS)](https://confoo.ca/en/2024/session/java-21-la-version-que-vous-devriez-utiliser-lts)| [Henri Tremblay](https://blog.tremblay.pro) | [Slides](2024-02-21/java_21-henri_tremblay.pdf) [Demo](https://github.com/henri-tremblay/java91011beyond) |
 | [Procrastinate! Or at least your app should…](https://confoo.ca/en/2024/session/procrastinate-or-at-least-your-app-should) | Sébastien Ballangé | [slides](2024-02-21/Procrastinate_Or_at_least_your_app_should-Sebastien_Ballange.pdf) |
+|[Welcome to Cloud of Freedom or Cloud of Serfdom](https://confoo.ca/en/2024/session/cloud-of-serfdom-vs-cloud-of-freedom) |[Peter Zaitsev] | [slides](2024-02-22/Welcome-Cloud-of-Freedom-Cloud-of-Serfdom-Peter_Zaitsev.pdf) |
 
 # February 22
 
