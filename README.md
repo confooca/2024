@@ -38,6 +38,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [I Completed All 8 Advents of Code in One Go: Lessons Learned](https://confoo.ca/en/2024/session/i-completed-all-8-advents-of-code-in-one-go-lessons-learned) | [Teiva Harsanyi](https://teivah.dev) | [slides](2024-02-21/i-completed-all-9-advents-of-code.pdf) |
 | [Does Your API Need a REST? Check Out GraphQL](https://confoo.ca/en/2024/session/does-your-api-need-a-rest-check-out-graphql)                                                     | Dan Vega                                    | [slides](2024-02-21/spring-for-graphql.pdf)                                                                                                                                                                            |
 | [Spring Boot 3 and Beyond!](https://confoo.ca/en/2024/session/spring-boot-3-and-beyond) | Dan Vega | [slides](2024-02-21/spring-boot-3-beyond.pdf)                                                                                                                                                                          |
+| [Open Api rendu facile grace à TypeSpec](https://confoo.ca/en/2024/session/open-api-rendu-facile-grace-a-typespec) | [Eric De Carufel](https://www.linkedin.com/in/edecarufel/) | [slides](2024-02-21/Open_Api_rendu_facile_grace_a_TypeSpec-Eric_De_Carufel.pdf) |
 
 ## February 22
 
@@ -67,6 +68,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [PostgreSQL for MySQL DBAs](https://confoo.ca/en/2024/session/postgresql-for-mysql-dbas) | [Dave Stokes](http://elephantdolphin.blogger.com/) | [Slides](2024-02-22/David%20Stokes%20-%20PostgreSQL%20For%20MySQL%20DBAs.pptx.pdf) |
 | [Retrieval Augmented Generation with LangChain and OpenAI](https://confoo.ca/en/2024/session/retrieval-augmented-generation-with-langchain-and-openai) | Shao Hang He  | [Slides](2024-02-22/Retrieval%20Augmented%20Generation%20with%20LangChain%20and%20OpenAI.pdf) |
 | [Git Shit Done, the GitOps Way](https://confoo.ca/en/2024/session/git-shit-done-the-gitops-way) | [Frédéric Harper](https://fred.dev) | [Slides](2024-02-22/git-shit-done-the-gitops-way-confoo-2024.pdf) |
+| [Top 5 des meilleures façons d'améliorer votre code](https://confoo.ca/en/2024/session/top-5-des-meilleures-facons-d-ameliorer-votre-code) | [Eric De Carufel](https://www.linkedin.com/in/edecarufel/) | [slides](2024-02-22/Mon_top_5_des_meilleures_façons_d'améliorer_votre_code-Eric_De_Carufel.pdf) |
 
 ## February 23
 
