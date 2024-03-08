@@ -68,7 +68,9 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [PostgreSQL for MySQL DBAs](https://confoo.ca/en/2024/session/postgresql-for-mysql-dbas) | [Dave Stokes](http://elephantdolphin.blogger.com/) | [Slides](2024-02-22/David%20Stokes%20-%20PostgreSQL%20For%20MySQL%20DBAs.pptx.pdf) |
 | [Retrieval Augmented Generation with LangChain and OpenAI](https://confoo.ca/en/2024/session/retrieval-augmented-generation-with-langchain-and-openai) | Shao Hang He  | [Slides](2024-02-22/Retrieval%20Augmented%20Generation%20with%20LangChain%20and%20OpenAI.pdf) |
 | [Git Shit Done, the GitOps Way](https://confoo.ca/en/2024/session/git-shit-done-the-gitops-way) | [Frédéric Harper](https://fred.dev) | [Slides](2024-02-22/git-shit-done-the-gitops-way-confoo-2024.pdf) |
+| [The Anatomy of a Distributed Trace](https://confoo.ca/en/2024/session/the-anatomy-of-a-distributed-trace) | [Dave McAllister](https://www.nginx.org) | [Slides](2024-2-22/the_anatomy_of_a_distributed_trace- dave_mcallister.pdf) |
 | [Top 5 des meilleures façons d'améliorer votre code](https://confoo.ca/en/2024/session/top-5-des-meilleures-facons-d-ameliorer-votre-code) | [Eric De Carufel](https://www.linkedin.com/in/edecarufel/) | [slides](2024-02-22/Mon_top_5_des_meilleures_façons_d'améliorer_votre_code-Eric_De_Carufel.pdf) |
+
 
 ## February 23
 
@@ -104,3 +106,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [How to mess up JWT's - a practitioner's guide](https://confoo.ca/en/2024/session/how-to-mess-up-jwt-s-a-practitioner-s-guide) | [Christian Wenz](https://christianwenz.de) | [slides](2024-02-23/how_to_mess_up_jwts-christian_wenz.pdf) |
 | [A Survey of MySQL Indexes](https://confoo.ca/en/2024/session/a-survey-of-mysql-indexes) | [Dave Stokes ](http://elephantdolphin.blogger.com/) | [Slides](2024-02-23/David%20Stokes%20-%20A%20Survey%20of%20MySQL%20Indexes.pdf) |
 | [Bring your Kubernetes game to the next level](https://confoo.ca/en/2024/session/bring-your-kubernetes-game-to-the-next-level) | [Frédéric Harper](https://fred.dev) | [Slides](2024-02-23/bring-your-kubernetes-game-to-the-next-level-confoo-2024.pdf) |
+| [NGINX Unit: Serving Server-side Wasm with Web Awareness](https://confoo.ca/en/2024/session/nginx-unit-serving-server-side-wasm-with-web-awareness) | [Dave McAllister](https://www.nginx.org) | [Slides](2024-02-23/serving_server-side_webassembly_with_web_awareness- dave_mcallister.pdf) |
