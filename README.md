@@ -39,6 +39,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Does Your API Need a REST? Check Out GraphQL](https://confoo.ca/en/2024/session/does-your-api-need-a-rest-check-out-graphql)                                                     | Dan Vega                                    | [slides](2024-02-21/spring-for-graphql.pdf)                                                                                                                                                                            |
 | [Spring Boot 3 and Beyond!](https://confoo.ca/en/2024/session/spring-boot-3-and-beyond) | Dan Vega | [slides](2024-02-21/spring-boot-3-beyond.pdf)                                                                                                                                                                          |
 | [Open Api rendu facile grace à TypeSpec](https://confoo.ca/en/2024/session/open-api-rendu-facile-grace-a-typespec) | [Eric De Carufel](https://www.linkedin.com/in/edecarufel/) | [slides](2024-02-21/Open_Api_rendu_facile_grace_a_TypeSpec-Eric_De_Carufel.pdf) |
+| [AI for SQL and Data Analytics](https://confoo.ca/en/2024/session/ai-for-sql-and-data-analytics-current-state-and-future) |[Peter Zaitsev] | [slides](2024-02-21/AI-SQL-Data-Analytics-Peter_Zaitsev.pdf) |
 
 ## February 22
 
@@ -70,7 +71,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Git Shit Done, the GitOps Way](https://confoo.ca/en/2024/session/git-shit-done-the-gitops-way) | [Frédéric Harper](https://fred.dev) | [Slides](2024-02-22/git-shit-done-the-gitops-way-confoo-2024.pdf) |
 | [The Anatomy of a Distributed Trace](https://confoo.ca/en/2024/session/the-anatomy-of-a-distributed-trace) | [Dave McAllister](https://www.nginx.org) | [Slides](2024-2-22/the_anatomy_of_a_distributed_trace- dave_mcallister.pdf) |
 | [Top 5 des meilleures façons d'améliorer votre code](https://confoo.ca/en/2024/session/top-5-des-meilleures-facons-d-ameliorer-votre-code) | [Eric De Carufel](https://www.linkedin.com/in/edecarufel/) | [slides](2024-02-22/Mon_top_5_des_meilleures_façons_d'améliorer_votre_code-Eric_De_Carufel.pdf) |
-
+| [Welcome to Cloud of Freedom or Cloud of Serfdom](https://confoo.ca/en/2024/session/cloud-of-serfdom-vs-cloud-of-freedom) |[Peter Zaitsev] | [slides](2024-02-22/Welcome-Cloud-of-Freedom-Cloud-of-Serfdom-Peter_Zaitsev.pdf) |
 
 ## February 23
 
