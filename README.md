@@ -25,7 +25,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [I Have 100% Coverage. Why Did I Have a Regression?](https://confoo.ca/en/2024/session/i-have-100-coverage-why-did-i-have-a-regression)|[Gabriel Fournier](https://gfournier.ca)|[Slides](2024-02-21/I-Have-100-Coverave-Why-Did-I-Have-a-Regression.pdf) [Demo](https://github.com/carboneater/confoo-2024-mutation-testing)|
 | [Java 21: La version que vous devriez utiliser (LTS)](https://confoo.ca/en/2024/session/java-21-la-version-que-vous-devriez-utiliser-lts)| [Henri Tremblay](https://blog.tremblay.pro) | [Slides](2024-02-21/java_21-henri_tremblay.pdf) [Demo](https://github.com/henri-tremblay/java91011beyond) |
 | [Procrastinate! Or at least your app should…](https://confoo.ca/en/2024/session/procrastinate-or-at-least-your-app-should) | Sébastien Ballangé | [slides](2024-02-21/Procrastinate_Or_at_least_your_app_should-Sebastien_Ballange.pdf) |
-|[Welcome to Cloud of Freedom or Cloud of Serfdom](https://confoo.ca/en/2024/session/cloud-of-serfdom-vs-cloud-of-freedom) |[Peter Zaitsev] | [slides](2024-02-22/Welcome-Cloud-of-Freedom-Cloud-of-Serfdom-Peter_Zaitsev.pdf) |
+| [AI for SQL and Data Analytics](https://confoo.ca/en/2024/session/cloud-of-serfdom-vs-cloud-of-freedom](https://confoo.ca/en/2024/session/ai-for-sql-and-data-analytics-current-state-and-future) |[Peter Zaitsev] | [slides](2024-02-21/AI-SQL-Data-Analytics-Peter_Zaitsev.pdf) |
 
 # February 22
 
@@ -43,6 +43,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Hacking Kubernetes and protecting yourself against it](https://confoo.ca/en/2024/session/hacking-kubernetes-and-protecting-yourself-against-it) | Bastian Hofmann | [Slides](https://github.com/confooca/2024/blob/main/2024-02-22/Bastian%20Hofmann%20-%20Hacking%20Kubernetes.pdf) |
 | [Adopter pleinement GitOps](https://confoo.ca/en/2024/session/adopter-pleinement-gitops) | [Lucien Boix](https://www.linkedin.com/in/lucienboix/) | [Slides](2024-02-22/adopter_pleinement_gitops-lucien-boix.pdf) |
 | [Sustainable Web Development](https://confoo.ca/en/2024/session/sustainable-web-development) | [Simon MacDonald](https://simonmacdonald.com) | [Slides](2024-02-22/sustainable-web-dev.pdf) |
+|[Welcome to Cloud of Freedom or Cloud of Serfdom](https://confoo.ca/en/2024/session/cloud-of-serfdom-vs-cloud-of-freedom) |[Peter Zaitsev] | [slides](2024-02-22/Welcome-Cloud-of-Freedom-Cloud-of-Serfdom-Peter_Zaitsev.pdf) |
 
 # February 23
 
